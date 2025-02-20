@@ -47,13 +47,12 @@ MRU](https://mru.org/courses/principles-economics-microeconomics/whats-included-
 
 Nominales versus reales BIP
 :::
+
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/nominal-vs-real-gdp-practice-questions).
 :::
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Reales BIP pro Kopf und Lebensstandard"}
 <div>
@@ -63,33 +62,28 @@ MRU](https://mru.org/practice-questions/nominal-vs-real-gdp-practice-questions).
 
 Reales BIP pro Kopf und Lebensstandard
 :::
+
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/real-gdp-capita-and-standard-living-practice-questions).
 :::
 
-
-
-
 ::: {.callout-tip collapse="true" title="Video: Die Zusammensetzung des BIP"}
 <div>
 
-::: {#vid-bip3}
+<div>
+
 {{< video https://youtu.be/ChnRwedmO64?si=i9eAHnhti7zXh5MQ >}}
 
 Die Zusammensetzung des BIO
-:::
+
+</div>
+
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/splitting-gdp-practice-questions).
 :::
 
-
-
-
-
 ## Übungsaufgaben
-
--
