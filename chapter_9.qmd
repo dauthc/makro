@@ -1,0 +1,139 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Der Einfluss von Geldpolitik und Fiskalpolitik auf die gesamtwirtschaftliche Nachfrage
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 32 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter32.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-fispol1}
+{{< video https://youtu.be/NMlmij7FRkI?si=UkAuLZQQNDDf3TrI >}} 
+Fiskalpolitik: Das Best-Case-Szenario
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/fiscal-policy-best-case-scenario-practice-questions).
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Grenzen der Fiskalpolitik"}
+<div>
+
+::: {#vid-fispol2}
+{{< video https://youtu.be/38c4DFT21n8?si=1cvKy91e4-AmRsPt >}}
+Die Grenzen der Fiskalpolitik
+::: 
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/limits-fiscal-policy-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Gefahren der Fiskalpolitik"}
+<div>
+
+::: {#vid-fispol3}
+{{< video https://youtu.be/EgSimMv0BKo?si=nJ3O2WQHGtj7vmYF >}}
+Die Gefahren der Fiskalpolitik
+::: 
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/dangers-fiscal-policy-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Fiskalpolitik und Verdrängung"}
+<div>
+
+::: {#vid-fispol4}
+{{< video https://youtu.be/HRYaXktH_O4?si=jJFVAbFzS1m_zLdV >}}
+Fiskalpolitik und Verdrängung
+::: 
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/fiscal-policy-and-crowding-out-practice-questions).
+:::
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 32 "Der Einfluss von Geldpolitik und Fiskalpolitik auf die gesamtwirtschaftliche Nachfrage" im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 32.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 1:** Nehmen Sie an, die Volkswirtschaft befindet sich im
+    langfristigen Gleichgewicht.
+
+    1.  Stellen Sie das langfristige Gleichgewicht der Volkswirtschaft
+        in einem Diagramm mit aggregierter Nachfragekurve und
+        aggregierter Angebotskurve dar.
+    2.  Nehmen Sie nun an, dass eine Finanzkrise zu einem Rückgang der
+        gesamtwirtschaftlichen Nachfrage führt. Zeigen Sie grafisch die
+        kurzfristigen Auswirkungen auf das Preisniveau und das
+        gesamtwirtschaftliche Produktionsniveau. Was wird mit der
+        Arbeitslosenquote passieren?
+    3.  Welche langfristigen Auswirkungen erwarten Sie? Welche Rolle
+        spielen dabei die Preiserwartungen? Veranschaulichen Sie Ihre
+        Erklärungen anhand eines Diagramms.
+
+-   **Aufgabe 2:** Entscheiden Sie, welches der nachfolgend genannten
+    Ereignisse das langfristige gesamtwirtschaftliche Angebot erhöht,
+    vermindert oder unverändert lässt.
+
+    1.  Deutschland erlebt eine Einwanderungswelle.
+    2.  In der Automobilindustrie setzen die Gewerkschaften eine
+        unerwartet hohe Steigerung der Tariflöhne durch.
+    3.  Infineon erfindet einen neuen und leistungsstarken Computerchip.
+    4.  Ein Hochwasser zerstört viele Produktionsanlagen.
+    5.  Eine Einwanderungswelle erhöht die Faktorausstattung
+
+-   **Aufgabe 10:** Nehmen Sie an, die Unternehmen blicken optimistisch
+    in die Zukunft und investieren in großem Umfang in neue
+    Produktionsanlagen.
+
+    1.  Zeigen Sie anhand des Diagramms mit aggregierter Nachfragekurve
+        und aggregierter Angebotskurve die kurzfristigen Auswirkungen.
+        Warum ändert sich das gesamtwirtschaftliche Produktionsniveau?
+    2.  Zeigen Sie mithilfe des Diagramms unter a das neue langfristige
+        Gleichgewicht (unterstellen Sie dabei, dass die langfristige
+        aggregierte Angebotskurve zunächst unverändert bleibt). Erklären
+        Sie, warum sich die gesamtwirtschaftliche Nachfrage im
+        Gleichgewicht auf kurze und auf lange Sicht unterscheidet.
+    3.  Wie werden die zusätzlichen Investitionen das langfristige
+        gesamtwirtschaftliche Angebot beeinflussen?

@@ -1,0 +1,135 @@
+# Produktivität und Wachstum 
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen 
+Lesen Sie das Kapitel 21 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen, die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien herunterladen](resources/chapter21.ppt){.btn .btn-primary target="_blank"}
+:::
+
+## Videos
+Sehen Sie sich folgende Videos an:
+
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
+::: {#vid-solow1}
+{{< video https://youtu.be/eVAS-t83Tx0?si=UQp3b04z3D_Pe_qi >}}
+Einführung in das Solow Modell
+:::
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-solow-model-practice-questions).
+
+
+::: {.callout-tip collapse="true" title="Video: Realkapital und abnehmendes Grenzprodukt"}
+<div>
+::: {#vid-solow2}
+{{< video https://youtu.be/SljsIacQDbc?si=qaD01RQpn0h8gyNo >}}
+Realkapital und abnehmendes Grenzprodukt
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/physical-capital-and-diminishing-returns-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Das Solow-Modell und das Steady State Gleichgewicht"}
+<div>
+::: {#vid-solow3}
+{{< video https://youtu.be/LQR7rO-I96A?si=t8N_9kW5FhvsuE_o >}}
+Das Solow-Modell und das Steady State Gleichgewicht
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/solow-model-and-steady-state-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Sprechstunde zum Solow-Modell"}
+<div>
+::: {#vid-solow4}
+{{< video https://youtu.be/p32tHlm2R8U?si=8YDRXYt_esCYeLlG >}}
+Sprechstunde zum Solow-Modell
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-solow-model-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Rolle des Humankapitals"}
+<div>
+::: {#vid-solow5}
+{{< video https://youtu.be/SVWX4Xjl4Os?si=lNFtNTtuY7Qu6qGe >}}
+Die Rolle des Humankapitals
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/human-capital-and-conditional-convergence-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Das Solow-Modell und technologisches Wissen"}
+<div>
+::: {#vid-solow6}
+{{< video https://youtu.be/-yPDlowSL1w?si=3CkmEvZdb8a5s_er >}}
+Das Solow-Modell und technologisches Wissen
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/solow-model-and-ideas-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Sprechstunde zum Solow-Modell: Investitionen versus technischer Fortschritt"}
+<div>
+::: {#vid-solow7}
+{{< video https://youtu.be/r5DoqfQ8rvk?si=HYBVHJMPGCvEBB_S >}}
+Das Solow-Modell: Investitionen versus technischer Fortschritt
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-solow-model-investments-vs-ideas).
+:::
+
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 21 "Produktion und Wachstum" im Arbeitsbuch von @herrmann2024.
+
+
+
+## Wiederholungsfragen
+
+Beantworten Sie die folgenden Wiederholungsfragen:
+
+-   Nennen und beschreiben Sie die vier Bestimmungsfaktoren der Produktivität
+
+-   Was versteht man unter dem Wachstumsgleichgewicht?
+
+-   Fährt eine höhere Sparquote vorübergehend oder dauerhaft zu einem höheren Wachstum?
+
+-   Wie beeinflusst die Rate des Bevölkerungswachstums die Höhe des BIP pro Kopf?
+
+-   Warum hat der technische Fortschritt eine große Bedeutung für die Wachstumsrate der Volkswirtschaft?
+
+-   Welche grundlegenden Fragen sind beim Thema Nachhaltigkeit zu klären?
+
+
+
+## Übungsaufgaben
+
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 4:** Durch den technologischen Wandel kommt es zu Gewinnern und Verlierern in der Volkswirtschaft. Nennen Sie ein Beispiel für den Prozess der schöpferischen Zerstörung in unserer Volkswirtschaft in den letzten Jahren. Wie kann der Staat die Folgen dieses Prozesses für die Betroffenen abmildern?
+
+-   **Aufgabe 5:** Nehmen Sie an, dass die Gesellschaft entschieden hat, den Konsum zu verringern und die Investitionen zu erhöhen. a) Wie würde sich diese Veränderung auf das Wirtschaftswachstum auswirken? b) Welche Gruppen in der Gesellschaft würden von dieser Veränderung profitieren? Welche Gruppen würden Nachteile erleiden?

@@ -1,0 +1,120 @@
+![Makroökonomik](resources/world-6158920_1280.png){.lightbox}
+
+# Einführung und Lernziele {.unnumbered}
+
+## Einführung
+
+In diesem kleinen Buch finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigenständig mit den Inhalten der Makroökonomik aus dem Modul "Mikro- und Makroökonomik" vertraut zu machen.
+
+
+
+## Wofür brauche ich das hier?
+
+Wissen über Makroökonomik ist nicht nur fürs Berufsleben, sondern auch privat super hilfreich, weil es Ihnen zeigt, wie die großen wirtschaftlichen Zusammenhänge funktionieren – und wie Sie kluge Entscheidungen treffen. Im Job hilft es Ihnen, Märkte zu checken, Konjunkturzyklen zu verstehen und strategische Entscheidungen zu planen, sei es in der Finanzwelt, Unternehmensführung oder Politik. Auch privat bringt Ihnen das Wissen über Inflation, Zinsen und Co. echte Vorteile: Sie können Ihre Finanzen smarter managen, aktuelle Wirtschaftsentwicklungen besser einordnen und bei gesellschaftlichen Themen mitreden – sei es bei Wahlen oder in Diskussionen. 
+
+
+👉 Kurz gesagt: Makroökonomik ist Ihr Toolkit, mit dem Sie im Job und Leben den Durchblick behalten!👓
+
+## Das sollten Sie also am Ende des Semesters können
+
+Nach Abschluss der Veranstaltung sind Sie in der Lage, die grundlegenden Mechanismen und Zusammenhänge der Makroökonomik zu verstehen. Dazu gehören:
+
+-   Die volkswirtschaftliche Gesamtrechnung und die Ziele der Makroökonomie (magisches Viereck),
+-   Langfristiges Wirtschaftswachstum und Produktivität,
+-   Arbeitslosigkeit und Konjunkturzyklen,
+-   Sparen, Investieren und das Finanzsystem,
+-   Die Rolle des monetären Systems und der Inflation,
+-   Sowie die Analyse der gesamtwirtschaftlichen Nachfrage mithilfe von keynesianischen Ansätzen und der IS-LM-Analyse.
+
+Sie können wirtschaftspolitische Maßnahmen (Geld- und Fiskalpolitik) im Kontext von Konjunktursteuerung, Inflation und Wachstum analysieren, kritisch bewerten und theoretisch fundierte Lösungsvorschläge entwickeln.
+
+::: {.callout-note icon=false collapse=true}
+### Detaillierte Lernziele
+
+1.  **Ziele der Makroökonomie (Magisches Viereck)**
+
+    -   Die Studierenden verstehen die grundlegenden Ziele der Makroökonomie – wirtschaftliches Wachstum, hoher Beschäftigungsgrad, Preisniveaustabilität und außenwirtschaftliches Gleichgewicht – und deren Bedeutung für die wirtschaftspolitische Steuerung.
+
+    -   Sie können Zielkonflikte (z. B. zwischen Inflation und Arbeitslosigkeit) analysieren und bewerten.
+
+    -   Sie sind in der Lage, diese Ziele in den Kontext aktueller wirtschaftlicher Entwicklungen zu setzen.
+
+2.  **Volkswirtschaftliche Gesamtrechnung (VGR)**
+
+    -   Die Studierenden lernen die Grundprinzipien der volkswirtschaftlichen Gesamtrechnung kennen und verstehen deren Rolle als Informationssystem zur Messung der wirtschaftlichen Leistung.
+
+    -   Sie können die wichtigsten Aggregate der VGR, wie das Bruttoinlandsprodukt (BIP), Bruttonationaleinkommen (BNE) sowie deren Berechnungsmethoden (Entstehungs-, Verteilungs- und Verwendungsrechnung) erklären.
+
+    -   Sie sind in der Lage, die Aussagekraft und die Grenzen der VGR kritisch zu reflektieren, insbesondere in Bezug auf Wohlstand und Lebensqualität.
+
+3.  **Produktivität und Wachstum**
+
+    -   Die Studierenden verstehen die Bedeutung von Produktivität als zentrale Triebkraft des langfristigen Wirtschaftswachstums.
+
+    -   Sie können die Rolle von technologischen Fortschritten, Humankapital, physischen Kapitalinvestitionen und institutionellen Faktoren für das Wirtschaftswachstum erklären.
+
+    -   Sie sind in der Lage, mithilfe von Wachstumsmodellen wie dem Solow-Modell die langfristigen Determinanten des Wohlstandsniveaus zu analysieren.
+
+4.  **Arbeitslosigkeit**
+
+    -   Die Studierenden können zwischen verschiedenen Arten von Arbeitslosigkeit (friktional, strukturell, konjunkturell) unterscheiden und deren Ursachen erklären.
+
+    -   Sie verstehen, wie der Arbeitsmarkt funktioniert und welche Faktoren das natürliche Arbeitsloseniveau beeinflussen.
+
+    -   Sie sind in der Lage, wirtschaftspolitische Maßnahmen zur Bekämpfung von Arbeitslosigkeit zu bewerten und deren Vor- und Nachteile zu analysieren.
+
+5.  **Sparen, Investieren und das Finanzsystem**
+
+    -   Die Studierenden erkennen die Bedeutung des Sparens und der Investitionen für die gesamtwirtschaftliche Entwicklung und können deren Einfluss auf Wirtschaftswachstum und Kapitalbildung erklären.
+
+    -   Sie verstehen die Funktion des Finanzsystems (Banken, Kapitalmärkte) bei der Vermittlung zwischen Sparern und Investoren.
+
+    -   Sie können analysieren, wie Zinssätze, Kreditvergabe und politische Eingriffe die Investitionstätigkeit beeinflussen.
+
+6.  **Das monetäre System**
+
+    -   Die Studierenden verstehen die grundlegende Rolle des Geldes in der Volkswirtschaft (Funktionen des Geldes: Tauschmittel, Recheneinheit, Wertaufbewahrungsmittel).
+
+    -   Sie können die Funktionsweise des Bankensystems und der Geldschöpfung erklären.
+
+    -   Sie sind in der Lage, die Rolle von Zentralbanken bei der Steuerung der Geldmenge und deren Einfluss auf die Wirtschaft zu analysieren.
+
+7.  **Geldmengenwachstum und Inflation**
+
+    -   Die Studierenden verstehen den Zusammenhang zwischen Geldmengenwachstum und Inflation und können die langfristigen Auswirkungen erklären (z. B. durch die Quantitätstheorie des Geldes).
+
+    -   Sie können die Ursachen und Folgen von Inflation und Deflation analysieren.
+
+    -   Sie sind in der Lage, die Herausforderungen einer Inflationsteuerung zu bewerten und die Wirkung geldpolitischer Maßnahmen kritisch zu hinterfragen.
+
+8.  **Konjunkturzyklen**
+
+    -   Die Studierenden verstehen die Schwankungen der Wirtschaft in Form von Konjunkturzyklen (Boom, Rezession, Aufschwung) und können die wesentlichen Phasen sowie deren Merkmale erklären.
+
+    -   Sie können externe und interne Faktoren, die Konjunkturzyklen beeinflussen (z. B. Schocks, Erwartungen, Investitionen), analysieren.
+
+    -   Sie sind in der Lage, die Bedeutung von Konjunkturindikatoren wie BIP, Arbeitslosenquote und Inflation zu bewerten.
+
+9.  **Keynesianische Theorie und die IS-LM-Analyse**
+
+    -   Die Studierenden verstehen die zentralen Ideen der keynesianischen Theorie, insbesondere die Bedeutung der gesamtwirtschaftlichen Nachfrage für die Wirtschaft.
+
+    -   Sie können mithilfe des IS-LM-Modells die Wechselwirkungen zwischen dem Gütermarkt (IS-Kurve) und dem Geldmarkt (LM-Kurve) analysieren.
+
+    -   Sie sind in der Lage, die Rolle der Zinssätze und des Einkommensniveaus im makroökonomischen Gleichgewicht zu erklären.
+
+10. **Einfluss von Geld- und Fiskalpolitik auf die gesamtwirtschaftliche Nachfrage**
+
+    -   Die Studierenden verstehen, wie die Geldpolitik (z. B. Zinssenkungen, Erhöhung der Geldmenge) die Investitionen, Konsumnachfrage und gesamtwirtschaftliche Produktion beeinflusst.
+
+    -   Sie können erklären, wie die Fiskalpolitik (z. B. Staatsausgaben, Steuersenkungen) eingesetzt wird, um die Konjunktur zu steuern und welche Multiplikatoreffekte dabei entstehen können.
+
+    -   Sie sind in der Lage, die Wirksamkeit von geld- und fiskalpolitischen Maßnahmen in unterschiedlichen wirtschaftlichen Situationen (z. B. Liquiditätsfalle, Rezession) kritisch zu bewerten.
+    
+11. **Selbstständiges Arbeiten und Problemlösungsfähigkeit**
+
+    - Die Studierenden entwickeln die Fähigkeit, sich eigenständig und zielgerichtet in komplexe makroökonomische Themen einzuarbeiten.
+    - Sie sind in der Lage, sich mithilfe von Lehrbüchern, Videos, Übungsaufgaben und anderen bereitgestellten Materialien Wissen selbstständig anzueignen.
+    - Sie können eigenständig wirtschaftspolitische Fragestellungen analysieren und begründete Lösungsvorschläge formulieren.
+    - Sie entwickeln ein besseres Verständnis für die Anwendung makroökonomischer Modelle auf reale Probleme und können selbstständig Verknüpfungen zwischen Theorie und Praxis herstellen.
+:::

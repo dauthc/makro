@@ -1,0 +1,211 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Gesamtwirtschaftliches Angebot und gesamtwirtschaftliche Nachfrage
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 31 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter31.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-adas1}
+{{< video https://youtu.be/jL94Fdcdv1Y?si=yy7wbIaIiju3On4o >}} 
+Die aggregierte Nachfragekurve
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/aggregate-demand-curve-practice-questions).
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die langfristige aggregierte Angebotskurve"}
+<div>
+
+::: {#vid-adas2}
+{{< video https://youtu.be/xqPpjR5X0ZY?si=QP_m3-oey3ZoJr9B>}} 
+Die langfristige aggregierte Angebotskurve
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/long-run-aggregate-supply-curve-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Rigide Löhne"}
+<div>
+
+::: {#vid-adas3}
+{{< video https://youtu.be/IbiPQI0wMAk?si=Rmgmrp866jeyPGcR >}}
+Rigide Löhne
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/sticky-wages-practice-questions).
+:::
+
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die kurzfristige aggregierte Angebotskurve"}
+<div>
+
+::: {#vid-adas4}
+{{< video https://youtu.be/8oQxzHgceBA?si=8htYR5yz3pj5DUIH>}}
+Die kurzfristige aggregierte Angebotskurve
+:::
+
+</div>Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/short-run-aggregate-supply-curve-practice-questions).
+:::
+
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Veränderungen in der Umlaufgeschwindigkeit"}
+<div>
+
+::: {#vid-adas5}
+{{< video https://www.youtube.com/watch?v=2-1Rq57vNZk>}}
+Veränderungen in der Umlaufgeschwindigkeit
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/changes-velocity-practice-questions).
+:::
+
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die große Depression der 1930er Jahre verstehen"}
+<div>
+
+::: {#vid-adas6}
+{{< video https://youtu.be/m6JLCHwNdT4?si=O1of0STPbxi_93W0>}}
+Die große Depression der 1930er Jahre verstehen
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/understanding-great-depression-practice-questions).
+:::
+
+
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Sprechstunde: Das AD-AS-Modell anwenden"}
+<div>
+
+::: {#vid-adas7}
+{{< video https://youtu.be/JonMRuKvKyk?si=cG0VRdUA1NSFMc4W>}}
+Sprechstunde: Das AD-AS-Modell anwenden
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/office-hours-using-adas-model-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Sprechstunde: Multiple Schocks mit dem AD-AS-Modell"}
+<div>
+
+::: {#vid-adas8}
+{{< video https://youtu.be/fCmND_XskMQ?si=Lgb_kYCFtpZz0cvY>}}
+Multiple Schocks mit dem AD-AS-Modell
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/office-hours-multiple-shocks-ad-model).
+:::
+
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 31 "Gesamtwirtschaftliche Nachfrage und gesamtwirtschaftliches Angebot" im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 31.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 1:** Nehmen Sie an, die Volkswirtschaft befindet sich im
+    langfristigen Gleichgewicht.
+
+    1.  Stellen Sie das langfristige Gleichgewicht der Volkswirtschaft
+        in einem Diagramm mit aggregierter Nachfragekurve und
+        aggregierter Angebotskurve dar.
+    2.  Nehmen Sie nun an, dass eine Finanzkrise zu einem Rückgang der
+        gesamtwirtschaftlichen Nachfrage führt. Zeigen Sie grafisch die
+        kurzfristigen Auswirkungen auf das Preisniveau und das
+        gesamtwirtschaftliche Produktionsniveau. Was wird mit der
+        Arbeitslosenquote passieren?
+    3.  Welche langfristigen Auswirkungen erwarten Sie? Welche Rolle
+        spielen dabei die Preiserwartungen? Veranschaulichen Sie Ihre
+        Erklärungen anhand eines Diagramms.
+
+-   **Aufgabe 2:** Entscheiden Sie, welches der nachfolgend genannten
+    Ereignisse das langfristige gesamtwirtschaftliche Angebot erhöht,
+    vermindert oder unverändert lässt.
+
+    1.  Deutschland erlebt eine Einwanderungswelle.
+    2.  In der Automobilindustrie setzen die Gewerkschaften eine
+        unerwartet hohe Steigerung der Tariflöhne durch.
+    3.  Infineon erfindet einen neuen und leistungsstarken Computerchip.
+    4.  Ein Hochwasser zerstört viele Produktionsanlagen.
+    5.  Eine Einwanderungswelle erhöht die Faktorausstattung
+
+-   **Aufgabe 10:** Nehmen Sie an, die Unternehmen blicken optimistisch
+    in die Zukunft und investieren in großem Umfang in neue
+    Produktionsanlagen.
+
+    1.  Zeigen Sie anhand des Diagramms mit aggregierter Nachfragekurve
+        und aggregierter Angebotskurve die kurzfristigen Auswirkungen.
+        Warum ändert sich das gesamtwirtschaftliche Produktionsniveau?
+    2.  Zeigen Sie mithilfe des Diagramms unter a das neue langfristige
+        Gleichgewicht (unterstellen Sie dabei, dass die langfristige
+        aggregierte Angebotskurve zunächst unverändert bleibt). Erklären
+        Sie, warum sich die gesamtwirtschaftliche Nachfrage im
+        Gleichgewicht auf kurze und auf lange Sicht unterscheidet.
+    3.  Wie werden die zusätzlichen Investitionen das langfristige
+        gesamtwirtschaftliche Angebot beeinflussen?

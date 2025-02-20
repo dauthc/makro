@@ -1,0 +1,57 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Konjunkturzyklen
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 29 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter29.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 29 "Konjunkturzyklen" im
+Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 29.
+
+## Übungsaufgaben
+
+-   **Aufgabe 1:** Nehmen Sie an, die Wachstumsrate des BIP beträgt in
+    einem bestimmten Jahr 3,4 Prozent, während das Trendwachstum 2,4
+    Prozent beträgt. In den nächsten beiden Jahren sinkt das Wachstum
+    auf 2,8 Prozent, dann auf 2,0 Prozent und beträgt im aktuellen Jahr
+    0,5 Prozent. Besteht die Gefahr, dass die Volkswirtschaft in eine
+    Rezession gerät? Erläutern Sie Ihre Antwort.
+-   **Aufgabe 3:** Erläutern Sie, ob die folgenden Größen in der
+    Bundesrepublik Deutschland ein prozyklisches oder ein antizyklisches
+    Verhalten zeigen:
+    1.  Inflationsrate
+
+    2.  Beschäftigungsniveau
+
+    3.  Erwerbslosenquote
+-   **Aufgabe 6:** Ihr Mitbewohner liest auf der Internetseite des
+    Statistischen Bundesamtes (www. destatis.de), dass der
+    Auftragseingangsindex der deutschen Industrie deutlich angestiegen
+    ist, gleichzeitig aber auch die Erwerbslosenquote. Können Sie diesen
+    (vermeintlichen) Widerspruch erklären?

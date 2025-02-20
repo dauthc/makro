@@ -1,0 +1,194 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Das monetäre System
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 25 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter25.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-mon1}
+{{< video https://youtu.be/8b03af6b670?si=cysiq-guxgJtks0e >}}
+Geldpolitik und Zentralbanken
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/monetary-policy-and-fed-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Das Geldangebot"}
+<div>
+
+::: {#vid-mon2}
+{{< video https://youtu.be/r5eFObOFcME?si=EJ_po3EUh1o6qeUI >}} Das
+Geldangebot
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/us-money-supplies-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Der Geldschöpfungsmultiplikator"}
+<div>
+
+::: {#vid-mon3}
+{{< video https://youtu.be/93_Va7I7Lgg?si=rVKXkrtEcDC54HML >}} Der
+Geldschöpfungsmultiplikator
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/money-multiplier-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Geldpolitik"}
+<div>
+
+::: {#vid-mon4}
+{{< video https://youtu.be/jheesQ8ot3g?si=x6q7v-Bth0YEunFt >}}
+Geldpolitik vor der Finanz- und Wirtschaftskrise
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/how-fed-worked-great-recession-practice-questions).
+:::
+
+[Interaktive
+Übung](https://mru.org/courses/principles-economics-macroeconomics/federal-reserve-market-reserves-limited/interactive-practice).
+
+::: {.callout-tip collapse="true" title="Video: Geldpolitik nach der Krise"}
+<div>
+
+::: {#vid-mon5}
+{{< video https://youtu.be/dTivWJvGYtI?si=u9PNnzvPEbx9aakZ >}}
+Geldpolitik nach der Finanz- und Wirtschaftskrise
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/how-fed-works-after-great-recession-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Die Zentralbank als Kreditgeber der letzten Instanz"}
+<div>
+
+::: {#vid-mon6}
+{{< video https://youtu.be/g_FrlBu9KJw?si=Lf86VsYFsNvoZVyD >}} Die
+Zentralbank als Kreditgeber der letzten Instanz
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/federal-reserve-lender-last-resort-practice-questions).
+:::
+
+::: {.callout-note collapse="true" title="Bonusmaterial: Kann Geld aus dem Nichts entstehen?"}
+<div>
+
+::: {#vid-mon}
+{{< video https://youtu.be/NMUFAzV6C5M?si=Kh71nLQtodyQY-xw >}} Kann Geld
+aus dem Nichts entstehen?
+:::
+
+</div>
+:::
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 25 "Das monetäre System"
+im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 25.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 1:** Welche der im Folgenden aufgezählten Dinge zählen zum
+    Geld im Euroraum? Bei welchen handelt es sich nicht um Geld?
+    Erläutern Sie Ihre Antwort unter Berücksichtigung der drei
+    Funktionen des Geldes:
+
+    1.  ein Eurocent,
+    2.  ein mexikanischer Peso,
+    3.  ein Gemälde von Picasso,
+    4.  eine Kreditkarte.
+
+-   **Aufgabe 2:** Entscheiden Sie, ob die folgenden Ereignisse zu einem
+    Anstieg oder zu einem Rückgang des Geldangebots führen:
+
+    1.  Die EZB kauft Wertpapiere im Rahmen von Offenmarktgeschäften.
+    2.  Die EZB senkt den Mindestreservesatz.
+    3.  Die EZB erhöht den Zinssatz für die Einlagefazilität.
+    4.  Aus Angst vor Bank Runs halten die Banken höhere
+        Überschussreserven.
+    5.  Während einer globalen Pandemie halten die Menschen aus Angst
+        vor einer Ansteckung weniger Bargeld.
+
+-   **Aufgabe 6**: Sie hatten 100 Euro in bar unter Ihrem Kopfkissen
+    versteckt und zahlen diese nun bei einer Bank ein. Wenn diese 100
+    Euro im Bankensystem verbleiben und die Bank Reserven in Höhe von 10
+    Prozent ihrer Einlagen hält, um wie viel wird dann die gesamte
+    Einlagensumme im Bankensystem steigen? Um wie viel erhöht sich das
+    Geldangebot?
+
+-   **Aufgabe 7:** Die EZB führt einen Ankauf von Wertpapieren am
+    offenen Markt in Höhe von 10 Milliarden Euro durch. Wie hoch kann
+    dann der maximal mögliche Anstieg des Geldangebots ausfallen, wenn
+    der geforderte Mindestreservesatz 10 Prozent beträgt? Welches wäre
+    der minimal mögliche Anstieg des Geldangebots? Erläutern Sie Ihre
+    Antworten.
+
+-   **Aufgabe 9:** Nehmen Sie an, der Mindestreservesatz beträgt 10
+    Prozent und die Banken hielten keinerlei Überschussreserven.
+
+    1.  Wie wirkt sich ein Verkauf von Staatsanleihen seitens der EZB in
+        Höhe von 1 Milliarde Euro auf die Höhe der Reserven und das
+        Geldangebot aus?
+    2.  Nehmen Sie nun an, die EZB senkt den Mindestreservesatz auf 5
+        Prozent und die Banken entschließen sich, weitere 5 Prozent der
+        Einlagensumme als Überschussreserven zu halten. Warum könnten
+        die Banken so handeln? Welche Gesamtwirkung hätte dies auf den
+        Geldschöpfungsmultiplikator und das Geldangebot?
+
+-   **Aufgabe 10:** Nehmen Sie an, in einer fiktiven Volkswirtschaft
+    gebe es 2.000 1-Euro-Stücke. Wie hoch ist die Geldmenge,
+
+    1.  wenn die Bewohner das gesamte Geld als Bargeld halten?
+    2.  wenn die Bewohner das gesamte Geld auf Girokonten halten und der
+        Mindestreservesatz bei 100 Prozent liegt?
+    3.  wenn die Bewohner zu gleichen Teilen Bargeld und Sichteinlagen
+        besitzen und der Mindestreservesatz bei 100 Prozent liegt?
+    4.  wenn die Bewohner das gesamte Geld auf Girokonten halten und der
+        Mindestreservesatz 10 Prozent beträgt?
+    5.  wenn die Bewohner zu gleichen Teilen Bargeld und Sichteinlagen
+        besitzen und der Mindestreservesatz 10 Prozent beträgt?

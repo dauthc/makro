@@ -1,0 +1,61 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# Ziele der Makroökonomie
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 15 aus @bofinger2020 "Ziele der Makroökonomie:
+magische Vierecke und Dreiecke, Zielscheiben und Ziellinien".
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Pearson zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter15.pptx){.btn .btn-primary
+target="_blank"}
+:::
+
+## Übungsaufgaben
+
+-   **Aufgabe 2:** Multiple Choice (bis zu vier richtige Antworten sind
+    möglich)
+    1.  Stabilitäts- und Wachstumsgesetz
+        -    Das Stabilitäts- und Wachstumsgesetz verpflichtet Bund und
+            Länder, das gesamtwirtschaftliche Gleichgewicht zu beachten.
+        -   Das Stabilitäts- und Wachstumsgesetz verpflichtet Bund und
+            Länder, ihr Defizit unter 3% des BIP zu halten.
+        -   Das Stabilitäts- und Wachstumsgesetz wurde eingeführt, um
+            die Stabilität des Euro zu sichern.
+        -   Das Stabilitäts- und Wachstumsgesetz definiert die Ziele der
+            makroökoonomischen Politik in Deutschland.
+    2.  Inflation
+        -   In der Zeit vor dem Ersten Weltkrieg gab es eine
+            Hyperinflation.
+        -   In den Jahren von 1929 bis 1933 kam es in Deutschland zu
+            einem starken Rückgang des Preisniveaus.
+        -   Die Wärhungsreform von 1948 war notwendig, um die überhöhten
+            Geldbestände abzubauen, die durch die Kriegsfinanzierung von
+            Hitler entstanden waren.
+        -   In der Zeit nach 1950 kam es in Deutschland immer wieder zu
+            Infaltionsraten von über 9%.
+    3.  Ziele der Makroökonomie
+        -    Das Ziel des außenwirtschaftlichen Gleichgewichts hat nach
+            1973 zunehmend an Bedeutung gewonnen.
+        -   Die gesamtwirtschaftliche Verlustfunktion bezieht
+            Arbeitslosenquote und Leistungsbilanzsaldo mit ein.
+        -   In der gesamtwirtschaftlichen Verlustfunktion wird der
+            Output-Lücke und der Inflationslücke das gleiche Gewicht
+            begemessen.
+        -   Das Ziel der niedrigen Arbeitslosigkeit ist in der Regel
+            weitgehend identisch mit dem Ziel des stetigen Wachstums.

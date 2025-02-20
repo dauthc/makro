@@ -1,0 +1,117 @@
+---
+bibliography: references.bib
+---
+
+# Arbeitslosigkeit
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 22 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen, die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien herunterladen](resources/chapter22.ppt){.btn .btn-primary target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-alo1}
+{{< video https://youtu.be/2kOQMkFE1E8?si=EuDborGlAUqQIED0 >}}
+Wirtschaftliche Aspekte der Berufswahl
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/economics-choosing-right-career-practice-questions-0).
+
+::: {.callout-tip collapse="true" title="Video: Definition der Arbeitslosenquote"}
+<div>
+
+::: {#vid-alo2}
+{{< video https://youtu.be/uPRQnQxsL3E?si=xPcik_e-QBCb214J >}} 
+Definition der Arbeitslosenquote
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/defining-unemployment-rate-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Wird Arbeitslosigkeit untererfasst?"}
+<div>
+::: {#vid-alo3}
+{{< video https://youtu.be/_kqpYkUAq4g?si=wXpd88EK_PmzW21E >}} 
+Wird Arbeitslosigkeit untererfasst?
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/unemployment-undercounted-practice-questions).
+:::
+
+
+::: {.callout-tip collapse="true" title="Video: Friktionelle Arbeitslosigkeit"}
+<div>
+
+::: {#vid-alo4}
+{{< video https://youtu.be/kU11c094ykM?si=4nLHnwJyukx3mfLP >}} 
+Friktionelle Arbeitslosigkeit
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/frictional-unemployment-practice-questions).
+:::
+
+
+::: {.callout-tip collapse="true" title="Video: Strukturelle Arbeitslosigkeit"}
+<div>
+::: {#vid-alo5}
+{{< video https://youtu.be/_t-ZDHFr73s?si=y_dYp0nx283yT8S1 >}} 
+Strukturelle Arbeitslosigkeit
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/structural-unemployment-practice-questions).
+:::
+
+
+::: {.callout-tip collapse="true" title="Video: Zyklische Arbeitslosigkeit"}
+<div>
+::: {#vid-alo6}
+{{< video https://youtu.be/Y5K8__QTF2I?si=bZ5jigXpmfpUgyTU >}} 
+Zyklische Arbeitslosigkeit
+:::
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/cyclical-unemployment-practice-questions).
+:::
+
+
+## Zusammenfassung
+Lesen Sie für eine Zusammenfassung das Kapitel 22 "Arbeitslosigkeit" im Arbeitsbuch von @herrmann2024.
+
+
+
+## Wiederholungsfragen
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus @mankiw2024 in Kapitel 22.
+
+
+
+## Übungsaufgaben
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 1:** Nehmen wir an, es gäbe in Deutschland 40 Millionen Erwerbstätige, 2 Millionen Erwerbslose und 40 Millionen Nichterwerbspersonen. Wie groß wäre dann die Zahl der Erwerbspersonen? Wie hoch wären die Erwerbsquote und die Erwerbslosenquote?
+
+-   **Aufgabe 3:** Von 2018 bis 2022 ist die Zahl der Erwerbstätigen in der Bundesrepublik Deutschland um 0,730 Millionen Menschen gestiegen. Die Zahl der Erwerbslosen ist jedoch im gleichen Zeitraum nur um 0,024 Millionen Menschen zurückgegangen. Erläutern Sie den Zusammenhang beider Entwicklungen.
+
+-   **Aufgabe 4:** Zählen die nachfolgenden Fälle von Arbeitslosigkeit eher zum kurzfristigen oder zum langfristigen Phänomen der Arbeitslosigkeit?
+
+1.  Ein Bauarbeiter wird wegen anhaltenden schlechten Wetters entlassen.
+
+2.  Ein Schaufelradbaggerfahrer verliert seinen Job, weil der Braunkohletagebau schließt.
+
+3.  Eine Bankangestellte wird entlassen, weil die Bank vollständig auf Online- Banking umstellt.
+
+4.  Einer Köchin wird gekündigt, als ein neues Restaurant auf der anderen Straßenseite eröffnet.
+
+5.  Ein angelernter Schweißer büßt seine Stelle ein, als ein Schweißroboter angeschafft wird.
+
+-   **Aufgabe 5:** Zeigen Sie anhand eines Diagramms für den Arbeitsmarkt, wie sich eine Erhöhung von Mindestlohnsätzen auf die Lohnzahlungen, auf die Zahl der angebotenen und der nachgefragten Arbeitskräfte und das Ausmaß der Arbeitslosigkeit auswirkt.

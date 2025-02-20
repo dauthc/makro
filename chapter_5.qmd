@@ -1,0 +1,157 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Geldmengenwachstum und Inflation
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 26 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter26.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-infl1}
+{{< video https://youtu.be/78-BlZXm7wA?si=pWPTLJHfMyC4ncqa >}} Zimbabwe
+und Hyperinflation: Wer möchte Billiardär sein?
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/zimbabwe-and-hyperinflation-practice-questions).
+
+::: {.callout-note collapse="true" title="Bonusvideo für Interessierte: Inflation messen mit dem Verbraucherpreisindex"}
+<div>
+
+::: {#vid-infl2}
+{{< video https://youtu.be/0jJKjgE3qfE?si=MEB3cN0doFCRyEu_ >}} Inflation
+messen mit dem Verbraucherpreisindex
+:::
+
+</div>
+
+[Interaktive Übung zu Inflationsmessung durch den
+Verbraucherpreisindex](https://mru.org/courses/principles-economics-macroeconomics/calculating-inflation/interactive-practice)
+:::
+
+::: {.callout-tip collapse="true" title="Video: Die Quantitätstheorie des Geldes"}
+<div>
+
+::: {#vid-infl3}
+{{< video https://youtu.be/q59tZKP0HME?si=lpRNPDxjgHs8Pz13 >}} Die
+Quantitätstheorie des Geldes
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/quantity-theory-money-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Ursachen der klassischen Inflation"}
+<div>
+
+::: {#vid-infl4}
+{{< video https://youtu.be/gi7jx5IJtik?si=Zoi1gFwhGuXauydE >}} Ursachen
+der klassischen Inflation
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/causes-inflation-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Kosten der Inflation: Preisverwirrung und Geldillusion"}
+<div>
+
+::: {#vid-infl5}
+{{< video https://youtu.be/Q_C3whhH2gc?si=OUdAqgbDyPtwwa-r >}} Kosten
+der Inflation: Preisverwirrung und Geldillusion
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/inflation-price-confusion-money-illusion-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video Sprechstunde: Kosten der Inflation"}
+<div>
+
+::: {#vid-infl6}
+{{< video https://youtu.be/2Bnm35Lyfrs?si=031unIUuwp2UkGwD >}}
+Sprechstunde: Kosten der Inflation
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/office-hours-costs-inflation-practice-questions).
+:::
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 26 "Geldmengenwachstum
+und Inflation" im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 26.
+
+## Übungsaufgaben
+
+-   **Aufgabe 2:** Nehmen Sie an, die Geldmenge in einer Volkswirtschaft
+    beträgt heute 500 Milliar- den Euro, das nominale BIP beträgt 10
+    Billionen Euro und das reale BIP beläuft sich auf 5 Billionen Euro.
+
+    1.  Wie hoch ist das Preisniveau? Wie groß ist die
+        Umlaufgeschwindigkeit des Geldes?
+    2.  Nehmen Sie an, die Umlaufgeschwindigkeit des Geldes bliebe
+        konstant und das Produktionsniveau der Volkswirtschaft wachse um
+        5 Prozent pro Jahr. Wie entwickeln sich nominales BIP und
+        Preisniveau, wenn die Zentralbank die Geldmenge unverändert
+        lässt?
+    3.  Welche Geldmenge sollte die Zentralbank festsetzen, wenn sie für
+        das kommende Jahr ein stabiles Preisniveau anstrebt?
+
+-   **Aufgabe 8:** Worin bestehen Ihre »Schuhsohlen-Kosten«? Wie könnten
+    Sie diese Kosten in Euro messen? Wie unterscheiden sich Ihrer
+    Meinung nach die »Schuhsohlen-Kosten« Ihres Universitätspräsidenten
+    von Ihren eigenen?
+
+-   **Aufgabe 9:** Erinnern Sie sich, dass Geld drei Funktionen in der
+    Volkswirtschaft erfüllt. Worin bestehen diese Funktionen? Wie wirkt
+    sich Inflation auf die Fähigkeit des Geldes aus, jede dieser
+    Funktionen zu erfüllen?
+
+-   **Aufgabe 10:** Stellen Sie sich vor, die Deutschen erwarten für das
+    nächste Jahr eine Inflationsrate von 2 Prozent, tatsächlich steigen
+    die Preise aber um 4 Prozent. Inwiefern würde sich diese unerwartet
+    hohe Inflation vorteilhaft oder nachteilig auswirken für:
+
+    1.  die Bundesregierung,
+
+    2.  einen Hausbesitzer mit einem festen Hypothekenzinssatz,
+
+    3.  für Arbeitnehmer mit einem zweijährigen Tarifvertrag,
+
+    4.  für einen Rentner, der seine Ersparnisse in Staatsanleihen
+        investiert hat?

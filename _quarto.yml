@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  title: "Makroökonomik: Materialsammlung zum Selbststudium"
+  author: "Christine Dauth"
+  date: today
+  chapters:
+    - index.qmd
+    - chapter_neg1.qmd
+    - chapter_0.qmd
+    - chapter_1.qmd
+    - chapter_2.qmd
+    - chapter_3.qmd
+    - chapter_4.qmd
+    - chapter_5.qmd
+    - chapter_6.qmd
+    - chapter_7.qmd
+    - chapter_8.qmd
+    - chapter_9.qmd
+    - references.qmd
+
+resources:
+  - resources/Mankiw_Grundzuege_VWL_Dozentenskript_Kap_21_Produktion_und_Wachstum.ppt
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: minty
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Video
+      key: vid
+

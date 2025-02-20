@@ -1,0 +1,95 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Keynes, Keynesianer und die IS-LM-Analyse
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie aus dem Kapitel 30 aus @mankiw2024 die beiden ersten Kapitel "Das Keynesianische Kreuz" und "Der Multiplikatoreffekt"
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter30.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-keynes1}
+{{< video https://youtu.be/cYNVB5iqydk?si=eHAe5J6l2-piPvqG >}} 
+Games of Theories: Die Keynesianer
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/game-theories-keynesians-practice-questions).
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Einführung in die Fiskalpolitik"}
+<div>
+
+::: {#vid-keynes2}
+{{< video https://youtu.be/4FNdUTN4cHY?si=wHAPt692YknRQzTx >}}
+Einführung in die Fiskalpolitik
+::: 
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/introduction-fiscal-policy-practice-questions).
+:::
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 30 "Keynes, Keynesianer
+und die IS-LM-Analyse" im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 30.
+
+## Übungsaufgaben
+
+-   **Aufgabe 3:** Angenommen, empirische Wirtschaftsforscher
+    beobachten, dass ein Anstieg der Staatsausgaben um 10 Milliarden
+    Euro die gesamtwirtschaftliche Nachfrage in der Volkswirtschaft um
+    30 Milliarden Euro erhöht.
+
+    1.  Wie hoch würden die Wirtschaftsforscher – bei Vernachlässigung
+        eines Verdrängungseffekts – die marginale Konsumquote schätzen?
+    2.  Würde die Schätzung der marginalen Konsumquote bei
+        gleichzeitiger Veranschlagung eines Verdrängungseffekts größer
+        oder kleiner ausfallen als in a?
+
+-   **Aufgabe 5:** Nehmen Sie an, die Volkswirtschaft befindet sich im
+    Gleichgewicht. Wie würde sich eine Senkung der autonomen Ausgaben
+    auf das gesamtwirtschaftliche Einkommen und die Arbeitslosigkeit
+    auswirken? Unterlegen Sie Ihre Aussagen mit einem Diagramm.
+
+<!-- -   **Aufgabe 6:** Klären Sie mithilfe des IS-LM-Modells die -->
+<!--     Auswirkungen der nachfolgenden Maßnahmen auf die Volkswirtschaft. -->
+<!--     Unterstellen Sie dabei, dass die IS-Kurve die LM-Kurve im -->
+<!--     »Normalbereich« schneidet: -->
+
+<!--     1.  die Regierung senkt die Staatsausgaben, -->
+
+<!--     2.  die Zentralbank erhöht die Geldmenge, -->
+
+<!--     3.  die Regierung senkt die Steuern. -->

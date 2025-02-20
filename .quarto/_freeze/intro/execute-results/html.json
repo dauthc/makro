@@ -1,0 +1,15 @@
+{
+  "hash": "e13c74c517d2a542909099ae7eb62259",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Einleitung\n\nIn diesem kleinen Buch finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigentständig mit den Inhalten der Makroökonomik vertraut zu machen.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

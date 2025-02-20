@@ -1,0 +1,130 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Sparen, Investieren und das Finanzsystem
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 23 aus @mankiw2024
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Schäffer-Poeschel zur Verfügung gestellt werden.
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter23.ppt){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-spar1}
+{{< video https://youtu.be/L-GouzQaAno?si=pHPjIqUkEC1SVmq6 >}} Sparen
+und Leihen
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/supply-savings-and-demand-borrow-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Was machen Banken?"}
+<div>
+
+::: {#vid-spar2}
+{{< video https://youtu.be/sbvAAezbCKU?si=Rb9XWm5xgqR4O1Ju >}} Was
+machen Banken?
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/what-do-banks-do-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Einführung in Aktienmärkte"}
+<div>
+
+::: {#vid-spar3}
+{{< video https://youtu.be/QcgRoq_tqec?si=3wYJ-KusP-m0_MD2 >}}
+Einführung in Aktienmärkte
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/stock-market-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Einführung in Rentenmärkte"}
+<div>
+
+::: {#vid-spar4}
+{{< video https://youtu.be/O7ww0gQwuhI?si=FR-GYrvzylPTDQrn >}}
+Einführung in Rentenmärkte
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/intro-bond-markets-practice-questions).
+:::
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 23 "Sparen, Investieren
+und das Finanzsystem" im Arbeitsbuch von @herrmann2024.
+
+## Wiederholungsfragen
+
+Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
+@mankiw2024 in Kapitel 23.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
+
+-   **Aufgabe 1:** Von welcher der beiden jeweils angebotenen Anleihen
+    würden Sie eine höhere Verzinsung erwarten? Erläutern Sie ihre
+    Antwort.
+
+    1.  eine deutsche Staatsanleihe oder eine griechische Staatsanleihe;
+    2.  eine Anleihe, die in 5 Jahren fällig wird, oder eine Anleihe,
+        die in 20 Jahren fällig wird;
+    3.  eine Anleihe von Siemens oder eine Anleihe eines kleinen
+        IT-Unternehmens,das Sie in ihrer Garage betreiben.
+
+-   **Aufgabe 5:**Immer mehr Mitarbeiter besitzen Aktien des
+    Unternehmens, bei dem sie beschäftigt sind. Haben Sie eine
+    Vermutung, warum Unternehmen ein solches Verhalten fördern? Unter
+    welchen Umständen ist es denkbar, dass eine Person gerade keine
+    Aktien des Unternehmens halten möchte, bei dem sie beschäftigt ist?
+
+-   **Aufgabe 8:** Nehmen Sie an, der Staat benötige am Kreditmarkt im
+    nächsten Jahr 20 Milliarden Euro mehr als in diesem Jahr.
+
+    1.  Verwenden Sie ein Angebots-Nachfrage-Diagramm, um die
+        Auswirkungen einer höheren Kreditaufnahme zu untersuchen. Fällt
+        oder steigt der Zinssatz?
+    2.  Was passiert mit den Investitionen? Was mit der privaten
+        Ersparnis? Was mit der öffentlichen Ersparnis? Was mit der
+        gesamtwirtschaftlichen Ersparnis? Vergleichen Sie die Höhe der
+        Änderungen mit den 20 Milliarden Euro an zusätzlicher
+        staatlicher Kreditaufnahme.
+    3.  Wie wird die (Zins-)Elastizität des Kreditangebots das Ausmaß
+        dieser Änderungen beeinflussen?
+    4.  Wie wird die (Zins-)Elastizität der Kreditnachfrage das Ausmaß
+        dieser Änderungen beeinflussen?
+    5.  Nehmen Sie an, die Haushalte glauben, dass die höhere staatliche
+        Kreditaufnahme heute höhere Steuern in Zukunft zur Folge hat, um
+        die Staatsverschuldung abzutragen. Was würde das für die private
+        Ersparnis und das Kreditangebot heute bedeuten? Werden dadurch
+        die Effekte, die Sie in 1. und 2. untersucht haben, verstärkt
+        oder gemindert?

@@ -1,0 +1,95 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# Volkswirtschaftliche Daten und Rechenwerke
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 16 aus @bofinger2020 "Volkswirtschaftliche Daten
+und Rechenwerke".
+
+::: callout-note
+### 📂 Präsentationsfolien herunterladen
+
+Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen,
+die Ihnen vom Verlag Pearson zur Verfügung gestellt werden.
+
+[Hier können Sie die Präsentationsfolien
+herunterladen](resources/chapter16.pptx){.btn .btn-primary
+target="_blank"}
+:::
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-bip1}
+{{< video https://youtu.be/mjJmo5mN5yA?si=wdEh-CNnUyFXlGIp >}}
+
+Was ist das Bruttoinlandsprodukt (BIP)?
+:::
+
+Bearbeiten Sie die *Übung Was gehört zum BIP?* [auf der Seite von
+MRU](https://mru.org/courses/principles-economics-microeconomics/whats-included-gdp/interactive-practice).
+
+::: {.callout-tip collapse="true" title="Video: Nominales versus reales BIP"}
+<div>
+
+::: {#vid-bip2}
+{{< video https://youtu.be/rGqhTQyY6g4?si=FETYVWH8I5rQJ9sP >}}
+
+Nominales versus reales BIP
+:::
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/nominal-vs-real-gdp-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Reales BIP pro Kopf und Lebensstandard"}
+<div>
+
+::: {#vid-bip3}
+{{< video https://youtu.be/Z0qHA93oOSc?si=t-pCYK4tGnVfv9Hs >}}
+
+Reales BIP pro Kopf und Lebensstandard
+:::
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/real-gdp-capita-and-standard-living-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Zusammensetzung des BIP"}
+<div>
+
+::: {#vid-bip3}
+{{< video https://youtu.be/ChnRwedmO64?si=i9eAHnhti7zXh5MQ >}}
+
+Die Zusammensetzung des BIO
+:::
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/splitting-gdp-practice-questions).
+:::
+
+
+
+
+
+## Übungsaufgaben
+
+-
