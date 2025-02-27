@@ -20,14 +20,19 @@ Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen, die Ih
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-alo1}
-{{< video https://youtu.be/2kOQMkFE1E8?si=EuDborGlAUqQIED0 >}}
+{{< video https://youtu.be/2kOQMkFE1E8?si=EuDborGlAUqQIED0 >}} 
 Wirtschaftliche Aspekte der Berufswahl
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/economics-choosing-right-career-practice-questions-0).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/economics-choosing-right-career-practice-questions-0){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Definition der Arbeitslosenquote"}
 <div>
@@ -36,20 +41,24 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 {{< video https://youtu.be/uPRQnQxsL3E?si=xPcik_e-QBCb214J >}} 
 Definition der Arbeitslosenquote
 :::
+
 </div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/defining-unemployment-rate-practice-questions).
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/defining-unemployment-rate-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Wird Arbeitslosigkeit untererfasst?"}
 <div>
+
 ::: {#vid-alo3}
 {{< video https://youtu.be/_kqpYkUAq4g?si=wXpd88EK_PmzW21E >}} 
 Wird Arbeitslosigkeit untererfasst?
 :::
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/unemployment-undercounted-practice-questions).
-:::
 
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/unemployment-undercounted-practice-questions){target="_blank"}.
+:::
 
 ::: {.callout-tip collapse="true" title="Video: Friktionelle Arbeitslosigkeit"}
 <div>
@@ -58,44 +67,48 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 {{< video https://youtu.be/kU11c094ykM?si=4nLHnwJyukx3mfLP >}} 
 Friktionelle Arbeitslosigkeit
 :::
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/frictional-unemployment-practice-questions).
-:::
 
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/frictional-unemployment-practice-questions){target="_blank"}.
+:::
 
 ::: {.callout-tip collapse="true" title="Video: Strukturelle Arbeitslosigkeit"}
 <div>
+
 ::: {#vid-alo5}
 {{< video https://youtu.be/_t-ZDHFr73s?si=y_dYp0nx283yT8S1 >}} 
 Strukturelle Arbeitslosigkeit
 :::
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/structural-unemployment-practice-questions).
-:::
 
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/structural-unemployment-practice-questions){target="_blank"}.
+:::
 
 ::: {.callout-tip collapse="true" title="Video: Zyklische Arbeitslosigkeit"}
 <div>
+
 ::: {#vid-alo6}
 {{< video https://youtu.be/Y5K8__QTF2I?si=bZ5jigXpmfpUgyTU >}} 
 Zyklische Arbeitslosigkeit
 :::
+
 </div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/cyclical-unemployment-practice-questions).
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/cyclical-unemployment-practice-questions){target="_blank"}.
 :::
 
-
 ## Zusammenfassung
-Lesen Sie für eine Zusammenfassung das Kapitel 22 "Arbeitslosigkeit" im Arbeitsbuch von @herrmann2024.
 
-
+Lesen Sie als Zusammenfassung das Kapitel 22 "Arbeitslosigkeit" im Arbeitsbuch von @herrmann2024.
 
 ## Wiederholungsfragen
+
 Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus @mankiw2024 in Kapitel 22.
 
-
-
 ## Übungsaufgaben
+
 Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
 
 -   **Aufgabe 1:** Nehmen wir an, es gäbe in Deutschland 40 Millionen Erwerbstätige, 2 Millionen Erwerbslose und 40 Millionen Nichterwerbspersonen. Wie groß wäre dann die Zahl der Erwerbspersonen? Wie hoch wären die Erwerbsquote und die Erwerbslosenquote?

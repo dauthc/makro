@@ -4,14 +4,15 @@ editor:
     wrap: 72
 ---
 
-# Keynes, Keynesianer und die IS-LM-Analyse
+# Keynes
 
 Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
 Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie aus dem Kapitel 30 aus @mankiw2024 die beiden ersten Kapitel "Das Keynesianische Kreuz" und "Der Multiplikatoreffekt"
+Lesen Sie aus dem Kapitel 30 aus @mankiw2024 die beiden ersten Kapitel
+"Das Keynesianische Kreuz" und "Der Multiplikatoreffekt"
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -26,6 +27,10 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-keynes1}
@@ -34,10 +39,7 @@ Games of Theories: Die Keynesianer
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/game-theories-keynesians-practice-questions).
-
-
-
+MRU](https://mru.org/practice-questions/game-theories-keynesians-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Einführung in die Fiskalpolitik"}
 <div>
@@ -45,15 +47,13 @@ MRU](https://mru.org/practice-questions/game-theories-keynesians-practice-questi
 ::: {#vid-keynes2}
 {{< video https://youtu.be/4FNdUTN4cHY?si=wHAPt692YknRQzTx >}}
 Einführung in die Fiskalpolitik
-::: 
-
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/introduction-fiscal-policy-practice-questions).
 :::
 
+</div>
 
-
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/introduction-fiscal-policy-practice-questions){target="_blank"}.
+:::
 
 ## Zusammenfassung
 
@@ -84,8 +84,11 @@ Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus
     auswirken? Unterlegen Sie Ihre Aussagen mit einem Diagramm.
 
 <!-- -   **Aufgabe 6:** Klären Sie mithilfe des IS-LM-Modells die -->
+
 <!--     Auswirkungen der nachfolgenden Maßnahmen auf die Volkswirtschaft. -->
+
 <!--     Unterstellen Sie dabei, dass die IS-Kurve die LM-Kurve im -->
+
 <!--     »Normalbereich« schneidet: -->
 
 <!--     1.  die Regierung senkt die Staatsausgaben, -->

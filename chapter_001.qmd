@@ -1,0 +1,31 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# Ziele der Makroökonomie
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 15 aus @bofinger2020 "Ziele der Makroökonomie:
+magische Vierecke und Dreiecke, Zielscheiben und Ziellinien".
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 15.1 im Arbeitsbuch von
+@bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 15.2.2 in
+@bofinger_grundzuge_2020.
+
+## Übungsaufgaben
+
+Bearbeiten Sie Übungsaufgabe 2 und 3 aus @bofinger_grundzuge_2020 und
+Aufgabe 2 aus @bofinger2020.

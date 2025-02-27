@@ -4,14 +4,13 @@
 
 ## Einführung
 
-In diesem kleinen Buch finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigenständig mit den Inhalten der Makroökonomik aus dem Modul "Mikro- und Makroökonomik" vertraut zu machen.
+Auf dieser Seite finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigenständig mit den Inhalten der Makroökonomik aus dem **Modul "Mikro- und Makroökonomik"** vertraut zu machen. Wenn Sie alle Materialien, die hier aufgeführt sind, gewissenhaft durcharbeiten, werden Sie bestens auf die Prüfung vorbereitet sein.
 
-
+Ergänzend gibt es auch [Selbstlernmaterialien für den Bereich Mikroökonomie](https://hsanmikro.netlify.app/){target="_blank"}.
 
 ## Wofür brauche ich das hier?
 
-Wissen über Makroökonomik ist nicht nur fürs Berufsleben, sondern auch privat super hilfreich, weil es Ihnen zeigt, wie die großen wirtschaftlichen Zusammenhänge funktionieren – und wie Sie kluge Entscheidungen treffen. Im Job hilft es Ihnen, Märkte zu checken, Konjunkturzyklen zu verstehen und strategische Entscheidungen zu planen, sei es in der Finanzwelt, Unternehmensführung oder Politik. Auch privat bringt Ihnen das Wissen über Inflation, Zinsen und Co. echte Vorteile: Sie können Ihre Finanzen smarter managen, aktuelle Wirtschaftsentwicklungen besser einordnen und bei gesellschaftlichen Themen mitreden – sei es bei Wahlen oder in Diskussionen. 
-
+Wissen über Makroökonomik ist nicht nur fürs Berufsleben, sondern auch privat super hilfreich, weil es Ihnen zeigt, wie die großen wirtschaftlichen Zusammenhänge funktionieren – und wie Sie kluge Entscheidungen treffen. Im Job hilft es Ihnen, Märkte zu checken, Konjunkturzyklen zu verstehen und strategische Entscheidungen zu planen, sei es in der Finanzwelt, Unternehmensführung oder Politik. Auch privat bringt Ihnen das Wissen über Inflation, Zinsen und Co. echte Vorteile: Sie können Ihre Finanzen smarter managen, aktuelle Wirtschaftsentwicklungen besser einordnen und bei gesellschaftlichen Themen mitreden – sei es bei Wahlen oder in Diskussionen.
 
 👉 Kurz gesagt: Makroökonomik ist Ihr Toolkit, mit dem Sie im Job und Leben den Durchblick behalten!👓
 
@@ -19,16 +18,16 @@ Wissen über Makroökonomik ist nicht nur fürs Berufsleben, sondern auch privat
 
 Nach Abschluss der Veranstaltung sind Sie in der Lage, die grundlegenden Mechanismen und Zusammenhänge der Makroökonomik zu verstehen. Dazu gehören:
 
--   Die volkswirtschaftliche Gesamtrechnung und die Ziele der Makroökonomie (magisches Viereck),
--   Langfristiges Wirtschaftswachstum und Produktivität,
--   Arbeitslosigkeit und Konjunkturzyklen,
--   Sparen, Investieren und das Finanzsystem,
--   Die Rolle des monetären Systems und der Inflation,
--   Sowie die Analyse der gesamtwirtschaftlichen Nachfrage mithilfe von keynesianischen Ansätzen und der IS-LM-Analyse.
+-   volkswirtschaftliche Gesamtrechnung und die Ziele der Makroökonomie (magisches Viereck)
+-   langfristiges Wirtschaftswachstum und Produktivität
+-   Arbeitslosigkeit und Konjunkturzyklen
+-   Sparen, Investieren und das Finanzsystem
+-   Rolle des monetären Systems und der Inflation
+-   Analyse der gesamtwirtschaftlichen Nachfrage mithilfe von keynesianischen Ansätzen
 
 Sie können wirtschaftspolitische Maßnahmen (Geld- und Fiskalpolitik) im Kontext von Konjunktursteuerung, Inflation und Wachstum analysieren, kritisch bewerten und theoretisch fundierte Lösungsvorschläge entwickeln.
 
-::: {.callout-note icon=false collapse=true}
+::: {.callout-note icon="false" collapse="true"}
 ### Detaillierte Lernziele
 
 1.  **Ziele der Makroökonomie (Magisches Viereck)**
@@ -110,11 +109,11 @@ Sie können wirtschaftspolitische Maßnahmen (Geld- und Fiskalpolitik) im Kontex
     -   Sie können erklären, wie die Fiskalpolitik (z. B. Staatsausgaben, Steuersenkungen) eingesetzt wird, um die Konjunktur zu steuern und welche Multiplikatoreffekte dabei entstehen können.
 
     -   Sie sind in der Lage, die Wirksamkeit von geld- und fiskalpolitischen Maßnahmen in unterschiedlichen wirtschaftlichen Situationen (z. B. Liquiditätsfalle, Rezession) kritisch zu bewerten.
-    
+
 11. **Selbstständiges Arbeiten und Problemlösungsfähigkeit**
 
-    - Die Studierenden entwickeln die Fähigkeit, sich eigenständig und zielgerichtet in komplexe makroökonomische Themen einzuarbeiten.
-    - Sie sind in der Lage, sich mithilfe von Lehrbüchern, Videos, Übungsaufgaben und anderen bereitgestellten Materialien Wissen selbstständig anzueignen.
-    - Sie können eigenständig wirtschaftspolitische Fragestellungen analysieren und begründete Lösungsvorschläge formulieren.
-    - Sie entwickeln ein besseres Verständnis für die Anwendung makroökonomischer Modelle auf reale Probleme und können selbstständig Verknüpfungen zwischen Theorie und Praxis herstellen.
+    -   Die Studierenden entwickeln die Fähigkeit, sich eigenständig und zielgerichtet in komplexe makroökonomische Themen einzuarbeiten.
+    -   Sie sind in der Lage, sich mithilfe von Lehrbüchern, Videos, Übungsaufgaben und anderen bereitgestellten Materialien Wissen selbstständig anzueignen.
+    -   Sie können eigenständig wirtschaftspolitische Fragestellungen analysieren und begründete Lösungsvorschläge formulieren.
+    -   Sie entwickeln ein besseres Verständnis für die Anwendung makroökonomischer Modelle auf reale Probleme und können selbstständig Verknüpfungen zwischen Theorie und Praxis herstellen.
 :::

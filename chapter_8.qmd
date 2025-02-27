@@ -26,6 +26,10 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-adas1}
@@ -34,10 +38,7 @@ Die aggregierte Nachfragekurve
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/aggregate-demand-curve-practice-questions).
-
-
-
+MRU](https://mru.org/practice-questions/aggregate-demand-curve-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Die langfristige aggregierte Angebotskurve"}
 <div>
@@ -50,78 +51,64 @@ Die langfristige aggregierte Angebotskurve
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/long-run-aggregate-supply-curve-practice-questions).
+MRU](https://mru.org/practice-questions/long-run-aggregate-supply-curve-practice-questions){target="_blank"}.
 :::
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Rigide Löhne"}
 <div>
 
 ::: {#vid-adas3}
-{{< video https://youtu.be/IbiPQI0wMAk?si=Rmgmrp866jeyPGcR >}}
+{{< video https://youtu.be/IbiPQI0wMAk?si=Rmgmrp866jeyPGcR >}} 
 Rigide Löhne
 :::
 
 </div>
+
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/sticky-wages-practice-questions).
+MRU](https://mru.org/practice-questions/sticky-wages-practice-questions){target="_blank"}.
 :::
-
-
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Die kurzfristige aggregierte Angebotskurve"}
 <div>
 
 ::: {#vid-adas4}
-{{< video https://youtu.be/8oQxzHgceBA?si=8htYR5yz3pj5DUIH>}}
+{{< video https://youtu.be/8oQxzHgceBA?si=8htYR5yz3pj5DUIH>}} 
 Die kurzfristige aggregierte Angebotskurve
 :::
 
-</div>Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/short-run-aggregate-supply-curve-practice-questions).
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/short-run-aggregate-supply-curve-practice-questions){target="_blank"}.
 :::
-
-
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Veränderungen in der Umlaufgeschwindigkeit"}
 <div>
 
 ::: {#vid-adas5}
-{{< video https://www.youtube.com/watch?v=2-1Rq57vNZk>}}
+{{< video https://www.youtube.com/watch?v=2-1Rq57vNZk>}} 
 Veränderungen in der Umlaufgeschwindigkeit
 :::
 
 </div>
+
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/changes-velocity-practice-questions).
+MRU](https://mru.org/practice-questions/changes-velocity-practice-questions){target="_blank"}.
 :::
-
-
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Die große Depression der 1930er Jahre verstehen"}
 <div>
 
 ::: {#vid-adas6}
-{{< video https://youtu.be/m6JLCHwNdT4?si=O1of0STPbxi_93W0>}}
+{{< video https://youtu.be/m6JLCHwNdT4?si=O1of0STPbxi_93W0>}} 
 Die große Depression der 1930er Jahre verstehen
 :::
 
 </div>
+
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/understanding-great-depression-practice-questions).
+MRU](https://mru.org/practice-questions/understanding-great-depression-practice-questions){target="_blank"}.
 :::
-
-
-
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Sprechstunde: Das AD-AS-Modell anwenden"}
 <div>
@@ -132,33 +119,30 @@ Sprechstunde: Das AD-AS-Modell anwenden
 :::
 
 </div>
+
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/office-hours-using-adas-model-practice-questions).
+MRU](https://mru.org/practice-questions/office-hours-using-adas-model-practice-questions){target="_blank"}.
 :::
-
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Sprechstunde: Multiple Schocks mit dem AD-AS-Modell"}
 <div>
 
 ::: {#vid-adas8}
-{{< video https://youtu.be/fCmND_XskMQ?si=Lgb_kYCFtpZz0cvY>}}
+{{< video https://youtu.be/fCmND_XskMQ?si=Lgb_kYCFtpZz0cvY>}} 
 Multiple Schocks mit dem AD-AS-Modell
 :::
 
 </div>
+
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/office-hours-multiple-shocks-ad-model).
+MRU](https://mru.org/practice-questions/office-hours-multiple-shocks-ad-model){target="_blank"}.
 :::
-
-
-
-
 
 ## Zusammenfassung
 
-Lesen Sie für eine Zusammenfassung das Kapitel 31 "Gesamtwirtschaftliche Nachfrage und gesamtwirtschaftliches Angebot" im Arbeitsbuch von @herrmann2024.
+Lesen Sie für eine Zusammenfassung das Kapitel 31 "Gesamtwirtschaftliche
+Nachfrage und gesamtwirtschaftliches Angebot" im Arbeitsbuch von
+@herrmann2024.
 
 ## Wiederholungsfragen
 

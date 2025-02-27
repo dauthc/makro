@@ -7,7 +7,7 @@ book:
   date: today
   chapters:
     - index.qmd
-    - chapter_neg1.qmd
+    - chapter_001.qmd
     - chapter_0.qmd
     - chapter_1.qmd
     - chapter_2.qmd

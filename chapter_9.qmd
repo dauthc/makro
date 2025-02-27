@@ -26,49 +26,48 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-fispol1}
-{{< video https://youtu.be/NMlmij7FRkI?si=UkAuLZQQNDDf3TrI >}} 
+{{< video https://youtu.be/NMlmij7FRkI?si=UkAuLZQQNDDf3TrI >}}
 Fiskalpolitik: Das Best-Case-Szenario
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/fiscal-policy-best-case-scenario-practice-questions).
-
-
-
+MRU](https://mru.org/practice-questions/fiscal-policy-best-case-scenario-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Die Grenzen der Fiskalpolitik"}
 <div>
 
 ::: {#vid-fispol2}
-{{< video https://youtu.be/38c4DFT21n8?si=1cvKy91e4-AmRsPt >}}
+{{< video https://youtu.be/38c4DFT21n8?si=1cvKy91e4-AmRsPt >}} 
 Die Grenzen der Fiskalpolitik
-::: 
-
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/limits-fiscal-policy-practice-questions).
 :::
 
+</div>
 
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/limits-fiscal-policy-practice-questions){target="_blank"}.
+:::
 
 ::: {.callout-tip collapse="true" title="Video: Die Gefahren der Fiskalpolitik"}
 <div>
 
 ::: {#vid-fispol3}
-{{< video https://youtu.be/EgSimMv0BKo?si=nJ3O2WQHGtj7vmYF >}}
+{{< video https://youtu.be/EgSimMv0BKo?si=nJ3O2WQHGtj7vmYF >}} 
 Die Gefahren der Fiskalpolitik
-::: 
-
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/dangers-fiscal-policy-practice-questions).
 :::
 
+</div>
 
-
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/dangers-fiscal-policy-practice-questions){target="_blank"}.
+:::
 
 ::: {.callout-tip collapse="true" title="Video: Fiskalpolitik und Verdrängung"}
 <div>
@@ -76,17 +75,19 @@ MRU](https://mru.org/practice-questions/dangers-fiscal-policy-practice-questions
 ::: {#vid-fispol4}
 {{< video https://youtu.be/HRYaXktH_O4?si=jJFVAbFzS1m_zLdV >}}
 Fiskalpolitik und Verdrängung
-::: 
-
-</div>
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/fiscal-policy-and-crowding-out-practice-questions).
 :::
 
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
+MRU](https://mru.org/practice-questions/fiscal-policy-and-crowding-out-practice-questions){target="_blank"}.
+:::
 
 ## Zusammenfassung
 
-Lesen Sie für eine Zusammenfassung das Kapitel 32 "Der Einfluss von Geldpolitik und Fiskalpolitik auf die gesamtwirtschaftliche Nachfrage" im Arbeitsbuch von @herrmann2024.
+Lesen Sie für eine Zusammenfassung das Kapitel 32 "Der Einfluss von
+Geldpolitik und Fiskalpolitik auf die gesamtwirtschaftliche Nachfrage"
+im Arbeitsbuch von @herrmann2024.
 
 ## Wiederholungsfragen
 

@@ -25,6 +25,11 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-mon1}
@@ -33,34 +38,34 @@ Geldpolitik und Zentralbanken
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/monetary-policy-and-fed-practice-questions).
+MRU](https://mru.org/practice-questions/monetary-policy-and-fed-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Das Geldangebot"}
 <div>
 
 ::: {#vid-mon2}
-{{< video https://youtu.be/r5eFObOFcME?si=EJ_po3EUh1o6qeUI >}} Das
-Geldangebot
+{{< video https://youtu.be/r5eFObOFcME?si=EJ_po3EUh1o6qeUI >}} 
+Das Geldangebot
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/us-money-supplies-practice-questions).
+MRU](https://mru.org/practice-questions/us-money-supplies-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Der Geldschöpfungsmultiplikator"}
 <div>
 
 ::: {#vid-mon3}
-{{< video https://youtu.be/93_Va7I7Lgg?si=rVKXkrtEcDC54HML >}} Der
-Geldschöpfungsmultiplikator
+{{< video https://youtu.be/93_Va7I7Lgg?si=rVKXkrtEcDC54HML >}} 
+Der Geldschöpfungsmultiplikator
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/money-multiplier-practice-questions).
+MRU](https://mru.org/practice-questions/money-multiplier-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Geldpolitik"}
@@ -78,7 +83,7 @@ MRU](https://mru.org/practice-questions/how-fed-worked-great-recession-practice-
 :::
 
 [Interaktive
-Übung](https://mru.org/courses/principles-economics-macroeconomics/federal-reserve-market-reserves-limited/interactive-practice).
+Übung](https://mru.org/courses/principles-economics-macroeconomics/federal-reserve-market-reserves-limited/interactive-practice){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Geldpolitik nach der Krise"}
 <div>
@@ -91,29 +96,29 @@ Geldpolitik nach der Finanz- und Wirtschaftskrise
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/how-fed-works-after-great-recession-practice-questions).
+MRU](https://mru.org/practice-questions/how-fed-works-after-great-recession-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Die Zentralbank als Kreditgeber der letzten Instanz"}
 <div>
 
 ::: {#vid-mon6}
-{{< video https://youtu.be/g_FrlBu9KJw?si=Lf86VsYFsNvoZVyD >}} Die
-Zentralbank als Kreditgeber der letzten Instanz
+{{< video https://youtu.be/g_FrlBu9KJw?si=Lf86VsYFsNvoZVyD >}} 
+Die Zentralbank als Kreditgeber der letzten Instanz
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/federal-reserve-lender-last-resort-practice-questions).
+MRU](https://mru.org/practice-questions/federal-reserve-lender-last-resort-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-note collapse="true" title="Bonusmaterial: Kann Geld aus dem Nichts entstehen?"}
 <div>
 
 ::: {#vid-mon}
-{{< video https://youtu.be/NMUFAzV6C5M?si=Kh71nLQtodyQY-xw >}} Kann Geld
-aus dem Nichts entstehen?
+{{< video https://youtu.be/NMUFAzV6C5M?si=Kh71nLQtodyQY-xw >}} 
+Kann Geld aus dem Nichts entstehen?
 :::
 
 </div>

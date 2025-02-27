@@ -26,70 +26,74 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-infl1}
-{{< video https://youtu.be/78-BlZXm7wA?si=pWPTLJHfMyC4ncqa >}} Zimbabwe
-und Hyperinflation: Wer möchte Billiardär sein?
+{{< video https://youtu.be/78-BlZXm7wA?si=pWPTLJHfMyC4ncqa >}} 
+Zimbabwe und Hyperinflation: Wer möchte Billiardär sein?
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/zimbabwe-and-hyperinflation-practice-questions).
+MRU](https://mru.org/practice-questions/zimbabwe-and-hyperinflation-practice-questions){target="_blank"}.
 
 ::: {.callout-note collapse="true" title="Bonusvideo für Interessierte: Inflation messen mit dem Verbraucherpreisindex"}
 <div>
 
 ::: {#vid-infl2}
-{{< video https://youtu.be/0jJKjgE3qfE?si=MEB3cN0doFCRyEu_ >}} Inflation
-messen mit dem Verbraucherpreisindex
+{{< video https://youtu.be/0jJKjgE3qfE?si=MEB3cN0doFCRyEu_ >}} 
+Inflation messen mit dem Verbraucherpreisindex
 :::
 
 </div>
 
 [Interaktive Übung zu Inflationsmessung durch den
-Verbraucherpreisindex](https://mru.org/courses/principles-economics-macroeconomics/calculating-inflation/interactive-practice)
+Verbraucherpreisindex](https://mru.org/courses/principles-economics-macroeconomics/calculating-inflation/interactive-practice){target="_blank"}
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Die Quantitätstheorie des Geldes"}
 <div>
 
 ::: {#vid-infl3}
-{{< video https://youtu.be/q59tZKP0HME?si=lpRNPDxjgHs8Pz13 >}} Die
-Quantitätstheorie des Geldes
+{{< video https://youtu.be/q59tZKP0HME?si=lpRNPDxjgHs8Pz13 >}} 
+Die Quantitätstheorie des Geldes
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/quantity-theory-money-practice-questions).
+MRU](https://mru.org/practice-questions/quantity-theory-money-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Ursachen der klassischen Inflation"}
 <div>
 
 ::: {#vid-infl4}
-{{< video https://youtu.be/gi7jx5IJtik?si=Zoi1gFwhGuXauydE >}} Ursachen
-der klassischen Inflation
+{{< video https://youtu.be/gi7jx5IJtik?si=Zoi1gFwhGuXauydE >}} 
+Ursachen der klassischen Inflation
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/causes-inflation-practice-questions).
+MRU](https://mru.org/practice-questions/causes-inflation-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Kosten der Inflation: Preisverwirrung und Geldillusion"}
 <div>
 
 ::: {#vid-infl5}
-{{< video https://youtu.be/Q_C3whhH2gc?si=OUdAqgbDyPtwwa-r >}} Kosten
-der Inflation: Preisverwirrung und Geldillusion
+{{< video https://youtu.be/Q_C3whhH2gc?si=OUdAqgbDyPtwwa-r >}} 
+Kosten der Inflation: Preisverwirrung und Geldillusion
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/inflation-price-confusion-money-illusion-practice-questions).
+MRU](https://mru.org/practice-questions/inflation-price-confusion-money-illusion-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video Sprechstunde: Kosten der Inflation"}
@@ -103,7 +107,7 @@ Sprechstunde: Kosten der Inflation
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/office-hours-costs-inflation-practice-questions).
+MRU](https://mru.org/practice-questions/office-hours-costs-inflation-practice-questions){target="_blank"}.
 :::
 
 ## Zusammenfassung

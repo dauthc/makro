@@ -25,28 +25,33 @@ target="_blank"}
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-spar1}
-{{< video https://youtu.be/L-GouzQaAno?si=pHPjIqUkEC1SVmq6 >}} Sparen
-und Leihen
+{{< video https://youtu.be/L-GouzQaAno?si=pHPjIqUkEC1SVmq6 >}} 
+Sparen und Leihen
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/supply-savings-and-demand-borrow-practice-questions).
+MRU](https://mru.org/practice-questions/supply-savings-and-demand-borrow-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Was machen Banken?"}
 <div>
 
 ::: {#vid-spar2}
-{{< video https://youtu.be/sbvAAezbCKU?si=Rb9XWm5xgqR4O1Ju >}} Was
-machen Banken?
+{{< video https://youtu.be/sbvAAezbCKU?si=Rb9XWm5xgqR4O1Ju >}} 
+Was machen Banken?
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/what-do-banks-do-practice-questions).
+MRU](https://mru.org/practice-questions/what-do-banks-do-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Einführung in Aktienmärkte"}
@@ -60,7 +65,7 @@ Einführung in Aktienmärkte
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/stock-market-practice-questions).
+MRU](https://mru.org/practice-questions/stock-market-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Einführung in Rentenmärkte"}
@@ -74,7 +79,7 @@ Einführung in Rentenmärkte
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/intro-bond-markets-practice-questions).
+MRU](https://mru.org/practice-questions/intro-bond-markets-practice-questions){target="_blank"}.
 :::
 
 ## Zusammenfassung
