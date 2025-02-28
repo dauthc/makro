@@ -11,7 +11,7 @@ Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 25 aus @mankiw2024
+Lesen Sie das Kapitel 25 "Das monetäre System" aus @mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -26,9 +26,14 @@ target="_blank"}
 ## Videos
 
 ::: {.callout-important title="Praktischer Hinweis"}
-Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser
+übersetzen lassen. Bei fremdsprachigen Videos können Sie sich
+Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden
+lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt
+übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden
+Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten
+Fachbegriffe anzueignen.
 :::
-
 
 Sehen Sie sich folgende Videos an:
 
@@ -44,7 +49,8 @@ MRU](https://mru.org/practice-questions/monetary-policy-and-fed-practice-questio
 <div>
 
 ::: {#vid-mon2}
-{{< video https://youtu.be/r5eFObOFcME?si=EJ_po3EUh1o6qeUI >}} 
+{{< video https://youtu.be/r5eFObOFcME?si=EJ_po3EUh1o6qeUI >}}
+
 Das Geldangebot
 :::
 
@@ -58,7 +64,8 @@ MRU](https://mru.org/practice-questions/us-money-supplies-practice-questions){ta
 <div>
 
 ::: {#vid-mon3}
-{{< video https://youtu.be/93_Va7I7Lgg?si=rVKXkrtEcDC54HML >}} 
+{{< video https://youtu.be/93_Va7I7Lgg?si=rVKXkrtEcDC54HML >}}
+
 Der Geldschöpfungsmultiplikator
 :::
 
@@ -73,6 +80,7 @@ MRU](https://mru.org/practice-questions/money-multiplier-practice-questions){tar
 
 ::: {#vid-mon4}
 {{< video https://youtu.be/jheesQ8ot3g?si=x6q7v-Bth0YEunFt >}}
+
 Geldpolitik vor der Finanz- und Wirtschaftskrise
 :::
 
@@ -82,14 +90,12 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/how-fed-worked-great-recession-practice-questions).
 :::
 
-[Interaktive
-Übung](https://mru.org/courses/principles-economics-macroeconomics/federal-reserve-market-reserves-limited/interactive-practice){target="_blank"}.
-
 ::: {.callout-tip collapse="true" title="Video: Geldpolitik nach der Krise"}
 <div>
 
 ::: {#vid-mon5}
 {{< video https://youtu.be/dTivWJvGYtI?si=u9PNnzvPEbx9aakZ >}}
+
 Geldpolitik nach der Finanz- und Wirtschaftskrise
 :::
 
@@ -103,7 +109,8 @@ MRU](https://mru.org/practice-questions/how-fed-works-after-great-recession-prac
 <div>
 
 ::: {#vid-mon6}
-{{< video https://youtu.be/g_FrlBu9KJw?si=Lf86VsYFsNvoZVyD >}} 
+{{< video https://youtu.be/g_FrlBu9KJw?si=Lf86VsYFsNvoZVyD >}}
+
 Die Zentralbank als Kreditgeber der letzten Instanz
 :::
 
@@ -113,11 +120,12 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/federal-reserve-lender-last-resort-practice-questions){target="_blank"}.
 :::
 
-::: {.callout-note collapse="true" title="Bonusmaterial: Kann Geld aus dem Nichts entstehen?"}
+::: {.callout-note collapse="true" title="Zusatzvideo für Interessierte: Kann Geld aus dem Nichts entstehen?"}
 <div>
 
 ::: {#vid-mon}
-{{< video https://youtu.be/NMUFAzV6C5M?si=Kh71nLQtodyQY-xw >}} 
+{{< video https://youtu.be/NMUFAzV6C5M?si=Kh71nLQtodyQY-xw >}}
+
 Kann Geld aus dem Nichts entstehen?
 :::
 
@@ -197,3 +205,6 @@ Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
         Mindestreservesatz 10 Prozent beträgt?
     5.  wenn die Bewohner zu gleichen Teilen Bargeld und Sichteinlagen
         besitzen und der Mindestreservesatz 10 Prozent beträgt?
+
+-   [Interaktive
+    Übung](https://mru.org/courses/principles-economics-macroeconomics/federal-reserve-market-reserves-limited/interactive-practice){target="_blank"}

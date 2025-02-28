@@ -12,8 +12,8 @@ Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 15 aus @bofinger2020 "Ziele der Makroökonomie:
-magische Vierecke und Dreiecke, Zielscheiben und Ziellinien".
+Lesen Sie das Kapitel 15 "Ziele der Makroökonomie:
+magische Vierecke und Dreiecke, Zielscheiben und Ziellinien" aus @bofinger2020.
 
 ## Zusammenfassung
 
@@ -27,5 +27,5 @@ Reflektieren Sie die Kontrollfragen aus Kapitel 15.2.2 in
 
 ## Übungsaufgaben
 
-Bearbeiten Sie Übungsaufgabe 2 und 3 aus @bofinger_grundzuge_2020 und
+Bearbeiten Sie Übungsaufgabe 2 aus @bofinger_grundzuge_2020 und
 Aufgabe 2 aus @bofinger2020.

@@ -11,7 +11,7 @@ Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 26 aus @mankiw2024
+Lesen Sie das Kapitel 26 "Geldmengenwachstum und Inflation" aus @mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -27,25 +27,31 @@ target="_blank"}
 ## Videos
 
 ::: {.callout-important title="Praktischer Hinweis"}
-Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser
+übersetzen lassen. Bei fremdsprachigen Videos können Sie sich
+Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden
+lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt
+übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden
+Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten
+Fachbegriffe anzueignen.
 :::
 
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-infl1}
-{{< video https://youtu.be/78-BlZXm7wA?si=pWPTLJHfMyC4ncqa >}} 
-Zimbabwe und Hyperinflation: Wer möchte Billiardär sein?
+{{< video https://youtu.be/78-BlZXm7wA?si=pWPTLJHfMyC4ncqa >}} Zimbabwe
+und Hyperinflation: Wer möchte Billiardär sein?
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
 MRU](https://mru.org/practice-questions/zimbabwe-and-hyperinflation-practice-questions){target="_blank"}.
 
-::: {.callout-note collapse="true" title="Bonusvideo für Interessierte: Inflation messen mit dem Verbraucherpreisindex"}
+::: {.callout-note collapse="true" title="Zusatzvideo für Interessierte: Inflation messen mit dem Verbraucherpreisindex"}
 <div>
 
 ::: {#vid-infl2}
-{{< video https://youtu.be/0jJKjgE3qfE?si=MEB3cN0doFCRyEu_ >}} 
-Inflation messen mit dem Verbraucherpreisindex
+{{< video https://youtu.be/0jJKjgE3qfE?si=MEB3cN0doFCRyEu_ >}} Inflation
+messen mit dem Verbraucherpreisindex
 :::
 
 </div>
@@ -58,8 +64,8 @@ Verbraucherpreisindex](https://mru.org/courses/principles-economics-macroeconomi
 <div>
 
 ::: {#vid-infl3}
-{{< video https://youtu.be/q59tZKP0HME?si=lpRNPDxjgHs8Pz13 >}} 
-Die Quantitätstheorie des Geldes
+{{< video https://youtu.be/q59tZKP0HME?si=lpRNPDxjgHs8Pz13 >}} Die
+Quantitätstheorie des Geldes
 :::
 
 </div>
@@ -72,8 +78,8 @@ MRU](https://mru.org/practice-questions/quantity-theory-money-practice-questions
 <div>
 
 ::: {#vid-infl4}
-{{< video https://youtu.be/gi7jx5IJtik?si=Zoi1gFwhGuXauydE >}} 
-Ursachen der klassischen Inflation
+{{< video https://youtu.be/gi7jx5IJtik?si=Zoi1gFwhGuXauydE >}} Ursachen
+der klassischen Inflation
 :::
 
 </div>
@@ -86,8 +92,8 @@ MRU](https://mru.org/practice-questions/causes-inflation-practice-questions){tar
 <div>
 
 ::: {#vid-infl5}
-{{< video https://youtu.be/Q_C3whhH2gc?si=OUdAqgbDyPtwwa-r >}} 
-Kosten der Inflation: Preisverwirrung und Geldillusion
+{{< video https://youtu.be/Q_C3whhH2gc?si=OUdAqgbDyPtwwa-r >}} Kosten
+der Inflation: Preisverwirrung und Geldillusion
 :::
 
 </div>

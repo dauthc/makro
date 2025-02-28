@@ -8,7 +8,7 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 22 aus @mankiw2024
+Lesen Sie das Kapitel 22 "Arbeitslosigkeit" aus @mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -24,11 +24,11 @@ Falls es Ihnen hilft, können Sie die Power Point Folien zum Buch nutzen, die Ih
 Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
 :::
 
-
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-alo1}
-{{< video https://youtu.be/2kOQMkFE1E8?si=EuDborGlAUqQIED0 >}} 
+{{< video https://youtu.be/2kOQMkFE1E8?si=EuDborGlAUqQIED0 >}}
+
 Wirtschaftliche Aspekte der Berufswahl
 :::
 
@@ -38,7 +38,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-alo2}
-{{< video https://youtu.be/uPRQnQxsL3E?si=xPcik_e-QBCb214J >}} 
+{{< video https://youtu.be/uPRQnQxsL3E?si=xPcik_e-QBCb214J >}}
+
 Definition der Arbeitslosenquote
 :::
 
@@ -51,7 +52,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-alo3}
-{{< video https://youtu.be/_kqpYkUAq4g?si=wXpd88EK_PmzW21E >}} 
+{{< video https://youtu.be/_kqpYkUAq4g?si=wXpd88EK_PmzW21E >}}
+
 Wird Arbeitslosigkeit untererfasst?
 :::
 
@@ -64,7 +66,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-alo4}
-{{< video https://youtu.be/kU11c094ykM?si=4nLHnwJyukx3mfLP >}} 
+{{< video https://youtu.be/kU11c094ykM?si=4nLHnwJyukx3mfLP >}}
+
 Friktionelle Arbeitslosigkeit
 :::
 
@@ -77,7 +80,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-alo5}
-{{< video https://youtu.be/_t-ZDHFr73s?si=y_dYp0nx283yT8S1 >}} 
+{{< video https://youtu.be/_t-ZDHFr73s?si=y_dYp0nx283yT8S1 >}}
+
 Strukturelle Arbeitslosigkeit
 :::
 
@@ -90,7 +94,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-alo6}
-{{< video https://youtu.be/Y5K8__QTF2I?si=bZ5jigXpmfpUgyTU >}} 
+{{< video https://youtu.be/Y5K8__QTF2I?si=bZ5jigXpmfpUgyTU >}}
+
 Zyklische Arbeitslosigkeit
 :::
 
@@ -115,7 +120,7 @@ Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
 
 -   **Aufgabe 3:** Von 2018 bis 2022 ist die Zahl der Erwerbstätigen in der Bundesrepublik Deutschland um 0,730 Millionen Menschen gestiegen. Die Zahl der Erwerbslosen ist jedoch im gleichen Zeitraum nur um 0,024 Millionen Menschen zurückgegangen. Erläutern Sie den Zusammenhang beider Entwicklungen.
 
--   **Aufgabe 4:** Zählen die nachfolgenden Fälle von Arbeitslosigkeit eher zum kurzfristigen oder zum langfristigen Phänomen der Arbeitslosigkeit?
+-   **Aufgabe 4:** Zählen die nachfolgenden Fälle von Arbeitslosigkeit eher zum kurzfristigen oder zum langfristigen Phänomen der Arbeitslosigkeit? Um welche Art der Arbeitslosigkeit handelt es sich? Begründen Sie kurz.
 
 1.  Ein Bauarbeiter wird wegen anhaltenden schlechten Wetters entlassen.
 
@@ -123,7 +128,7 @@ Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024:
 
 3.  Eine Bankangestellte wird entlassen, weil die Bank vollständig auf Online- Banking umstellt.
 
-4.  Einer Köchin wird gekündigt, als ein neues Restaurant auf der anderen Straßenseite eröffnet.
+4.  Einer Köchin wird gekündigt, als in der Coronakrise die Nachfrage nach Restaurantbesuchen einbricht.
 
 5.  Ein angelernter Schweißer büßt seine Stelle ein, als ein Schweißroboter angeschafft wird.
 

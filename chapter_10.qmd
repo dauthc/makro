@@ -1,0 +1,32 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# Banken als Intermediäre
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
+Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 25 "Banken als Intermediäre zwischen Sparern und Investoren"
+aus @bofinger2020. Die Kapitel 25.1.4 "Das IS/LM-Modell als Baismodell der monetären Modellierung" und 25.1.5 "Die Mechanismen des keynesianischen Modells" müssen Sie nicht lesen.
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 25.1 im Arbeitsbuch von
+@bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 25.2.2 in
+@bofinger_grundzuge_2020.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die Aufgaben 1 bis 4 aus @bofinger2020.
+

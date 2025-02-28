@@ -11,7 +11,8 @@ Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 23 aus @mankiw2024
+Lesen Sie das Kapitel 23 "Sparen, Investieren und das Finanzsystem" aus
+@mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -26,14 +27,20 @@ target="_blank"}
 ## Videos
 
 ::: {.callout-important title="Praktischer Hinweis"}
-Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser
+übersetzen lassen. Bei fremdsprachigen Videos können Sie sich
+Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden
+lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt
+übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden
+Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten
+Fachbegriffe anzueignen.
 :::
-
 
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-spar1}
-{{< video https://youtu.be/L-GouzQaAno?si=pHPjIqUkEC1SVmq6 >}} 
+{{< video https://youtu.be/L-GouzQaAno?si=pHPjIqUkEC1SVmq6 >}}
+
 Sparen und Leihen
 :::
 
@@ -44,7 +51,8 @@ MRU](https://mru.org/practice-questions/supply-savings-and-demand-borrow-practic
 <div>
 
 ::: {#vid-spar2}
-{{< video https://youtu.be/sbvAAezbCKU?si=Rb9XWm5xgqR4O1Ju >}} 
+{{< video https://youtu.be/sbvAAezbCKU?si=Rb9XWm5xgqR4O1Ju >}}
+
 Was machen Banken?
 :::
 
@@ -59,6 +67,7 @@ MRU](https://mru.org/practice-questions/what-do-banks-do-practice-questions){tar
 
 ::: {#vid-spar3}
 {{< video https://youtu.be/QcgRoq_tqec?si=3wYJ-KusP-m0_MD2 >}}
+
 Einführung in Aktienmärkte
 :::
 
@@ -73,6 +82,7 @@ MRU](https://mru.org/practice-questions/stock-market-practice-questions){target=
 
 ::: {#vid-spar4}
 {{< video https://youtu.be/O7ww0gQwuhI?si=FR-GYrvzylPTDQrn >}}
+
 Einführung in Rentenmärkte
 :::
 

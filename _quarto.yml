@@ -13,11 +13,10 @@ book:
     - chapter_2.qmd
     - chapter_3.qmd
     - chapter_4.qmd
+    - chapter_10.qmd
     - chapter_5.qmd
     - chapter_6.qmd
     - chapter_7.qmd
-    - chapter_8.qmd
-    - chapter_9.qmd
     - references.qmd
 
 resources:

@@ -4,15 +4,15 @@ editor:
     wrap: 72
 ---
 
-# Keynes
+# Keynes, Keynesianer und die IS-LM-Analyse
 
 Zur Bearbeitung des Kapitels nutzen Sie bitte folgende
 Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie aus dem Kapitel 30 aus @mankiw2024 die beiden ersten Kapitel
-"Das Keynesianische Kreuz" und "Der Multiplikatoreffekt"
+Lesen Sie aus dem Kapitel 30 "Keynes, Keynesianer und die IS-LM-Analyse"
+aus @mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -28,14 +28,20 @@ target="_blank"}
 ## Videos
 
 ::: {.callout-important title="Praktischer Hinweis"}
-Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser
+übersetzen lassen. Bei fremdsprachigen Videos können Sie sich
+Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden
+lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt
+übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden
+Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten
+Fachbegriffe anzueignen.
 :::
 
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-keynes1}
-{{< video https://youtu.be/cYNVB5iqydk?si=eHAe5J6l2-piPvqG >}} 
-Games of Theories: Die Keynesianer
+{{< video https://youtu.be/cYNVB5iqydk?si=eHAe5J6l2-piPvqG >}} Games of
+Theories: Die Keynesianer
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von

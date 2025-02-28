@@ -4,7 +4,7 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 21 aus @mankiw2024
+Lesen Sie das Kapitel 21 "Produktion und Wachstum" aus @mankiw2024.
 
 ::: callout-note
 ### 📂 Präsentationsfolien herunterladen
@@ -22,10 +22,10 @@ Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser überse
 
 Sehen Sie sich folgende Videos an:
 
-
-
 ::: {#vid-solow1}
-{{< video https://youtu.be/eVAS-t83Tx0?si=UQp3b04z3D_Pe_qi >}} Einführung in das Solow Modell
+{{< video https://youtu.be/eVAS-t83Tx0?si=UQp3b04z3D_Pe_qi >}}
+
+Einführung in das Solow Modell
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-solow-model-practice-questions){target="_blank"}.
@@ -34,7 +34,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow2}
-{{< video https://youtu.be/SljsIacQDbc?si=qaD01RQpn0h8gyNo >}} Realkapital und abnehmendes Grenzprodukt
+{{< video https://youtu.be/SljsIacQDbc?si=qaD01RQpn0h8gyNo >}}
+
+Realkapital und abnehmendes Grenzprodukt
 :::
 
 </div>
@@ -46,7 +48,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow3}
-{{< video https://youtu.be/LQR7rO-I96A?si=t8N_9kW5FhvsuE_o >}} Das Solow-Modell und das Steady State Gleichgewicht
+{{< video https://youtu.be/LQR7rO-I96A?si=t8N_9kW5FhvsuE_o >}}
+
+Das Solow-Modell und das Steady State Gleichgewicht
 :::
 
 </div>
@@ -58,7 +62,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow4}
-{{< video https://youtu.be/p32tHlm2R8U?si=8YDRXYt_esCYeLlG >}} Sprechstunde zum Solow-Modell
+{{< video https://youtu.be/p32tHlm2R8U?si=8YDRXYt_esCYeLlG >}} S
+
+prechstunde zum Solow-Modell
 :::
 
 </div>
@@ -70,7 +76,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow5}
-{{< video https://youtu.be/SVWX4Xjl4Os?si=lNFtNTtuY7Qu6qGe >}} Die Rolle des Humankapitals
+{{< video https://youtu.be/SVWX4Xjl4Os?si=lNFtNTtuY7Qu6qGe >}}
+
+Die Rolle des Humankapitals
 :::
 
 </div>
@@ -82,7 +90,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow6}
-{{< video https://youtu.be/-yPDlowSL1w?si=3CkmEvZdb8a5s_er >}} Das Solow-Modell und technologisches Wissen
+{{< video https://youtu.be/-yPDlowSL1w?si=3CkmEvZdb8a5s_er >}}
+
+Das Solow-Modell und technologisches Wissen
 :::
 
 </div>
@@ -94,7 +104,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-solow7}
-{{< video https://youtu.be/r5DoqfQ8rvk?si=HYBVHJMPGCvEBB_S >}} Das Solow-Modell: Investitionen versus technischer Fortschritt
+{{< video https://youtu.be/r5DoqfQ8rvk?si=HYBVHJMPGCvEBB_S >}}
+
+Das Solow-Modell: Investitionen versus technischer Fortschritt
 :::
 
 </div>
@@ -110,7 +122,12 @@ Lesen Sie als Zusammenfassung das Kapitel 21 "Produktion und Wachstum" im Arbeit
 
 Reflektieren Sie mit Hilfe von @herrmann2024 die Wiederholungsfragen aus @mankiw2024 in Kapitel 21.
 
-
 ## Übungsaufgaben
 
-Bearbeiten Sie die Übungsaufgaben 4 und 5 aus @mankiw2024.
+Bearbeiten Sie die folgenden Übungsaufgaben aus @mankiw2024.
+
+-   **Aufgabe 4:** Durch den technologischen Wandel kommt es zu Gewinnern und Verlierern in der Volkswirtschaft. Nennen Sie ein Beispiel für den Prozess der kreativen Zerstörung in unserer Volkswirtschaft in den letzten Jahren. Wie kann der Staat die Folgen dieses Prozesses für die Betroffenen abmildern?
+-   **Aufgabe 5:** Nehmen Sie an, dass die Gesellschaft entschieden hat, den Konsum zu verringern und die Investitionen zu erhöhen.
+    1.  Wie würde sich diese Veränderung auf das Wirtschaftswachstum auswirken?
+    2.  Welche Gruppen in der Gesellschaft würden von dieser Veränderung profitieren? Welche Gruppen würden Nachteile erleiden?
+-   **Aufgabe 6:** Worin bestehen die Opportunitätskosten einer Investition in Realkapital? Denken Sie, dass ein Land in Realkapital »überinvestieren« kann? Begründen Sie Ihre Antwort.

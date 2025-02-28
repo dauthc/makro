@@ -12,50 +12,55 @@ Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 16 aus @bofinger2020 "Volkswirtschaftliche Daten
-und Rechenwerke".
-
+Lesen Sie das Kapitel 16 "Volkswirtschaftliche Daten und Rechenwerke"
+aus @bofinger2020.
 
 ## Videos
 
 ::: {.callout-important title="Praktischer Hinweis"}
-Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser
+übersetzen lassen. Bei fremdsprachigen Videos können Sie sich
+Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden
+lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt
+übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden
+Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten
+Fachbegriffe anzueignen.
 :::
 
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-bip1}
-{{< video https://youtu.be/mjJmo5mN5yA?si=wdEh-CNnUyFXlGIp >}}
-Was ist das Bruttoinlandsprodukt (BIP)?
+{{< video https://youtu.be/mjJmo5mN5yA?si=wdEh-CNnUyFXlGIp >}} 
+Was ist
+das Bruttoinlandsprodukt (BIP)?
 :::
-
 
 ::: {.callout-tip collapse="true" title="Video: Nominales versus reales BIP"}
 <div>
 
 ::: {#vid-bip2}
-{{< video https://youtu.be/rGqhTQyY6g4?si=FETYVWH8I5rQJ9sP >}}
+{{< video https://youtu.be/rGqhTQyY6g4?si=FETYVWH8I5rQJ9sP >}} 
 Nominales versus reales BIP
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/nominal-vs-real-gdp-practice-questions){target=_blank}.
+MRU](https://mru.org/practice-questions/nominal-vs-real-gdp-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Reales BIP pro Kopf und Lebensstandard"}
 <div>
 
 ::: {#vid-bip3}
-{{< video https://youtu.be/Z0qHA93oOSc?si=t-pCYK4tGnVfv9Hs >}}
+{{< video https://youtu.be/Z0qHA93oOSc?si=t-pCYK4tGnVfv9Hs >}} 
 Reales BIP pro Kopf und Lebensstandard
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/real-gdp-capita-and-standard-living-practice-questions){target=_blank}.
+MRU](https://mru.org/practice-questions/real-gdp-capita-and-standard-living-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Die Zusammensetzung des BIP"}
@@ -63,7 +68,7 @@ MRU](https://mru.org/practice-questions/real-gdp-capita-and-standard-living-prac
 
 <div>
 
-{{< video https://youtu.be/ChnRwedmO64?si=i9eAHnhti7zXh5MQ >}}
+{{< video https://youtu.be/ChnRwedmO64?si=i9eAHnhti7zXh5MQ >}} 
 Die Zusammensetzung des BIP
 
 </div>
@@ -71,21 +76,18 @@ Die Zusammensetzung des BIP
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von
-MRU](https://mru.org/practice-questions/splitting-gdp-practice-questions){target=_blank}.
+MRU](https://mru.org/practice-questions/splitting-gdp-practice-questions){target="_blank"}.
 :::
-
-
 
 ## Zusammenfassung
 
-Lesen Sie als Zusammenfassung das Kapitel 16.1 im Arbeitsbuch von
-@bofinger_grundzuge_2020.
+Lesen Sie als Zusammenfassung das Kapitel 16.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
 
 ## Wiederholungsfragen
-Reflektieren Sie die Kontrollfragen aus Kapitel 16.2.2 in
-@bofinger_grundzuge_2020.
 
+Reflektieren Sie die Kontrollfragen aus Kapitel 16.2.2 in @bofinger_grundzuge_2020.
 
 ## Übungsaufgaben
-- Bearbeiten Sie die Aufgaben 1 und 4 aus dem Übungsbuch von @bofinger_grundzuge_2020.
-- [Übungsaufgabe zum BIP](https://mru.org/courses/principles-economics-microeconomics/whats-included-gdp/interactive-practice){target=_blank}
+
+-   Bearbeiten Sie die Aufgaben 1 und 4 aus dem Übungsbuch von @bofinger_grundzuge_2020.
+-   [Übungsaufgabe zum BIP](https://mru.org/courses/principles-economics-microeconomics/whats-included-gdp/interactive-practice){target="_blank"}
